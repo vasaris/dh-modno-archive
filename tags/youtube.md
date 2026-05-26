@@ -1,0 +1,234 @@
+# ▶️ YouTube
+
+_226 сообщений._
+
+[← Все теги](README.md) · [К навигации](../README.md)
+
+---
+
+- **𝓗 𝓑** · 24.12 04:49 · [→](../general/2024-12.md#m211) https://youtu.be/kJX0kIvWrAU?si=GwFNU5TE2ajnkCOg
+- **𝓗 𝓑** · 24.12 17:40 · [→](../general/2024-12.md#m332) https://www.youtube.com/watch?v=JPwo95Kveok
+- **Anna** · 19.03 08:21 · [→](../general/2025-03-w3.md#m1530) типа как когда в балдуре притворяешься больным? https://youtu.be/VTJit7e9enI?si=Ib2hctfrP5rRNnOS&t=39
+- **𝓗 𝓑** · 24.03 05:14 · [→](../general/2025-03-w4.md#m1946) https://www.youtube.com/watch?v=jTBapvqO80w
+- **𝓗 𝓑** · 28.03 09:21 · [→](../general/2025-03-w4.md#m2108) вот чо нашёл https://www.youtube.com/watch?v=xVxP13-Y1Wc
+- **𝓗 𝓑** · 10.04 16:51 · [→](../general/2025-04.md#m3029) https://www.youtube.com/watch?v=1dlXiErHqG8
+- **𝓗 𝓑** · 12.04 08:47 · [→](../general/2025-04.md#m3150) К более грустным новостям. Источник: YouTube – https://www.youtube.com/watch?v=6fCvVNyYICE
+- **𝓗 𝓑** · 17.04 07:18 · [→](../general/2025-04.md#m3219) https://youtube.com/shorts/T2Eouc8jCSw?si=IEZJ0-SaGEOo5zkV
+- **𝓗 𝓑** · 19.04 06:43 · [→](../general/2025-04.md#m3245) https://youtu.be/KQpWdta8N5Q?si=Ma2ILhCePcO8izxT
+- **𝓗 𝓑** · 02.05 07:24 · [→](../general/2025-05-w1.md#m3478) https://youtube.com/shorts/Gtg6S-McJSA?si=HMhbGUhnvHo0FACH
+- **Anna** · 17.05 11:54 · [→](../general/2025-05-w3.md#m3928) шикарный ролик нашла - учимся воровать от простого к сложному  😀 https://youtu.be/Vk__KOrsIMM?si=Hh0vzynMBm63HoSe
+- **𝓗 𝓑** · 19.05 07:46 · [→](../general/2025-05-w3.md#m4068) https://youtu.be/yvmEZp13i2Y?si=ZJMhaaS3VcbzrTZf
+- **𝓗 𝓑** · 19.05 11:52 · [→](../general/2025-05-w3.md#m4196) https://youtube.com/shorts/eQA0a8KjFxA?si=BpYy4VOZlSQPWvo6
+- **𝓗 𝓑** · 22.05 07:41 · [→](../general/2025-05-w4.md#m5829) https://youtube.com/shorts/_-NB006q_qE?si=ChjyxOys77I_uk5N
+- **𝓗 𝓑** · 22.05 08:01 · [→](../general/2025-05-w4.md#m5830) https://youtube.com/shorts/63vgliKhDmg?si=G3z8Q84a_O6hV-Qp
+- **𝓗 𝓑** · 23.05 11:35 · [→](../general/2025-05-w4.md#m6612) про минус 700 если хочешь понять, то это строчка из песни https://www.youtube.com/watch?v=_PJirg9n-n8
+- **𝓗 𝓑** · 25.05 08:02 · [→](../general/2025-05-w4.md#m7057) https://youtube.com/shorts/j8xIXlL701M?si=nACtKv38qzs5xJ0U
+- **𝓗 𝓑** · 26.05 13:30 · [→](../general/2025-05-w4.md#m7701) рекомендую быстрые ролики посмотреть у критикалролл, все последние про дх https://www.youtube.com/@criticalrole/videos
+- **Админ** · 26.05 14:05 · [→](../topics/01-вопросы-по-правилам.md#m7733) https://www.youtube.com/watch?v=i9DrGNL_LZ8
+- **Aleksandraks** · 26.05 16:47 · [→](../general/2025-05-w4.md#m8179) https://youtube.com/playlist?list=PL_ESyWkYHlod9uCsRmdp14m3GMLtBnTM0&si=kjHUi8iX1ZtLY7f6
+- **Админ** · 28.05 09:13 · [→](../topics/01-вопросы-по-правилам.md#m10081) Забавно, что мне скидывают итог термина, но я его не меняю у себя, так как знаю, что завтра будет новый, а после завтра…
+- **Вадим Чечёткин** · 30.05 12:37 · [→](../general/2025-05-w5.md#m12536) Читая чарники врагов представил это https://youtu.be/kh8MBVUIA7o
+- **Сэм** · 30.05 12:38 · [→](../general/2025-05-w5.md#m12541) https://www.youtube.com/watch?v=LERMLogrgvw
+- **Вадим Чечёткин** · 30.05 22:00 · [→](../general/2025-05-w5.md#m12776) https://youtu.be/6bV2K5eoJgk покажите своим игрокам (авто ру сабы) если они не знают что такое даггерхарт и хотят прийти
+- **Админ** · 02.06 06:15 · [→](../general/2025-06-w1.md#m13345) https://www.youtube.com/watch?v=QlYrNC_1Xmk  интересно у актеров детей уже свои дети появились?
+- **Админ** · 02.06 07:49 · [→](../general/2025-06-w1.md#m13392) на вот если захочешь сервак https://www.youtube.com/watch?v=TJGdipRdwvE
+- **Miranzel** · 02.06 07:50 · [→](../general/2025-06-w1.md#m13394) я вроде это смотрел, но не уверен уже https://youtu.be/7LIllmuW9z0
+- **Админ** · 02.06 09:17 · [→](../general/2025-06-w1.md#m13527) короче ищи середину золотую. Игра должна быть в кайф https://www.youtube.com/watch?v=i8BoPRnUdAw
+- **Админ** · 03.06 02:13 · [→](../general/2025-06-w1.md#m14026) https://youtu.be/GETs5_4NThU
+- **Вадим Чечёткин** · 05.06 17:58 · [→](../general/2025-06-w1.md#m15182) https://youtube.com/shorts/dWNiEI_fB70?si=gcw3-wCg5amXRWer
+- **Админ** · 06.06 15:51 · [→](../general/2025-06-w1.md#m15423) https://www.youtube.com/watch?v=nf2Gm9k5gpA
+- **Админ** · 07.06 02:44 · [→](../general/2025-06-w1.md#m15567) Atomic Heart 2 – Анонсирующий трейлер I SGF25 (EN) - YouTube https://www.youtube.com/watch?v=fquBSxalY1Y&t=117s&pp=2AF1…
+- **Админ** · 10.06 06:30 · [→](../general/2025-06-w2.md#m15922) https://www.youtube.com/watch?v=gOaTrl1L3UY
+- **Админ** · 11.06 06:02 · [→](../general/2025-06-w2.md#m16214) Пересчитать все помехи — хватит пять пальцев Пересчитать все преимущества — хватит пять пальцев https://www.youtube.com…
+- **Админ** · 12.06 01:49 · [→](../general/2025-06-w2.md#m16376) https://youtube.com/shorts/3ltJaW_I1V0?si=L4v2dzsovjfOgT6J
+- **Админ** · 12.06 13:14 · [→](../general/2025-06-w2.md#m16814) https://www.youtube.com/watch?v=T6TKIOozDTo
+- **Админ** · 15.06 01:19 · [→](../general/2025-06-w3.md#m17198) https://youtube.com/shorts/bzNiiI_uUfQ?si=9_MgnifJELIJssF-
+- **Админ** · 17.06 03:42 · [→](../general/2025-06-w3.md#m17600) https://www.youtube.com/watch?v=tEfdnuPLt24
+- **Админ** · 18.06 04:37 · [→](../general/2025-06-w3.md#m17928) https://www.youtube.com/watch?v=AoMQ6ZYW81M
+- **Anna** · 18.06 05:00 · [→](../general/2025-06-w3.md#m17935) ладно, на)  https://www.youtube.com/watch?v=mkav4h5O4is
+- **Админ** · 20.06 05:33 · [→](../general/2025-06-w3.md#m18462) в эфире https://www.youtube.com/watch?v=2V2TUt-0CJM&ab_channel=CriticalRole
+- **Админ** · 20.06 05:53 · [→](../general/2025-06-w3.md#m18468) https://www.youtube.com/watch?v=Uj54-l523oE миджорни начал делать видео
+- **Админ** · 20.06 06:00 · [→](../general/2025-06-w3.md#m18470) https://www.youtube.com/watch?v=WtBlq9KJEPY Хороший блогер, что о нри (днд5) узнал пару месяцев назад решил в обзорщики…
+- **Вадим Чечёткин** · 20.06 15:30 · [→](../general/2025-06-w3.md#m18800) https://www.youtube.com/watch?v=-Sabuea6byc&ab_channel=TheLateLateShowwithJamesCorden
+- **Админ** · 21.06 05:18 · [→](../topics/01-вопросы-по-правилам.md#m18868) https://youtube.com/shorts/JgN_VjLAAJA?si=jCADzEWXghQfw823
+- **Админ** · 22.06 01:30 · [→](../general/2025-06-w4.md#m19027) https://youtube.com/shorts/PJdRLnsuY8I?si=y75_2wuL9Val_WyW
+- **Админ** · 22.06 04:07 · [→](../general/2025-06-w4.md#m19062) https://www.youtube.com/watch?v=4NhH2vOERog
+- **Админ** · 23.06 05:51 · [→](../general/2025-06-w4.md#m19262) https://youtube.com/shorts/UnnNbWs9qbU?si=o1vyZTMNJWNs4nIB
+- **Иван** · 25.06 11:33 · [→](../general/2025-06-w4.md#m20047) https://youtube.com/shorts/3oUxm4Oe7tc?si=_cSAt8gVrPffA9-3
+- **Max** · 26.06 11:14 · [→](../general/2025-06-w4.md#m20649) https://youtu.be/ZQl-VaXNLfM?si=P3aMIWOk6Lr3d7pA
+- **Админ** · 26.06 12:02 · [→](../general/2025-06-w4.md#m20663) https://www.youtube.com/watch?v=_wI7M2KPrUM&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2F&source_ve_path=Mjg2NjY
+- **Админ** · 26.06 13:31 · [→](../topics/04-хоумрулы-неофициальные-механики.md#m20700) Сегодня расскажу еще про одну механику, которую придумал вместо стандартного боя. Механ опробован и показал себя весьма…
+- **Админ** · 26.06 13:47 · [→](../general/2025-06-w4.md#m20749) https://www.youtube.com/watch?v=mCL1sKd32us с 1-30
+- **Админ** · 28.06 04:17 · [→](../general/2025-06-w4.md#m21177) https://www.youtube.com/watch?v=VvnRm2uLboA
+- **Alex Kozlov** · 29.06 00:50 · [→](../general/2025-06-w5.md#m21581) https://www.youtube.com/watch?v=u7kj4GHhVjI&t=325s не показывайте вашим манчкинистым друзьям  если коротко, какая-то оп…
+- **Phantom Ash** · 30.06 08:13 · [→](../general/2025-06-w5.md#m21951) https://youtube.com/shorts/tWgEsT0A3a4?si=VqUft415TFdW36Eq
+- **Иван** · 30.06 13:03 · [→](../general/2025-06-w5.md#m22282) https://youtube.com/shorts/TZWVaHLM-r0?si=gdvl1v3NUOIqruli
+- **Админ** · 30.06 14:17 · [→](../general/2025-06-w5.md#m22328) https://www.youtube.com/watch?v=VvnRm2uLboA
+- **Админ** · 01.07 04:45 · [→](../general/2025-07-w1.md#m22458) ты хоть бы ролик на фоне поставил https://www.youtube.com/watch?v=3pE23YTYEZM&t=115s
+- **Админ** · 01.07 16:02 · [→](../general/2025-07-w1.md#m22732) 5 серия https://www.youtube.com/watch?v=T1vxU6heNjg&ab_channel=CriticalRole
+- **Max** · 02.07 11:08 · [→](../general/2025-07-w1.md#m22871) https://youtu.be/8R20DuABMPI?si=hBgwtxKtTKVTT7-R  Вот тут тоже добрый некромант))
+- **Alex Kozlov** · 02.07 13:48 · [→](../general/2025-07-w1.md#m22956) Мне вот эти ребята ещё нравятся  https://www.youtube.com/live/dszuYguQ18A?si=tm3egzjXMI0gM6UR Я часа четыре из этого ст…
+- **Alex Kozlov** · 03.07 00:45 · [→](../general/2025-07-w1.md#m23042) прикольный видос от чела который участвовал в создании ДХ  (на английском)  наверное больше для гмов.  https://www.yout…
+- **Админ** · 03.07 05:46 · [→](../general/2025-07-w1.md#m23077) https://www.youtube.com/watch?v=b7XyQgXCmDk
+- **Админ** · 03.07 06:34 · [→](../general/2025-07-w1.md#m23110) https://www.youtube.com/watch?v=XSCkRCt5474
+- **Админ** · 05.07 01:14 · [→](../general/2025-07-w1.md#m23652) https://youtube.com/shorts/1xwj3bABBlk?si=NwO5DaT-74UG2jt4
+- **Админ** · 10.07 09:37 · [→](../general/2025-07-w2.md#m25030) а вот это кстати возможно даже годно будет https://www.youtube.com/watch?v=5LUEc33_plw
+- **Админ** · 12.07 01:37 · [→](../general/2025-07-w2.md#m25613) https://youtube.com/shorts/eRElYLq21Is?si=JCpjP1taNRi4drGV
+- **Админ** · 15.07 02:22 · [→](../general/2025-07-w3.md#m26664) https://youtu.be/3f_QlnMskGs?si=BfKZlnoEK4Mc8W9t
+- **Админ** · 15.07 12:06 · [→](../general/2025-07-w3.md#m26876) во https://www.youtube.com/shorts/1jKpotcFB0U?si=QUZmBkQg3nHZPjWo
+- **Иван** · 15.07 14:31 · [→](../general/2025-07-w3.md#m26931) https://youtu.be/5feqZBLXrMg?si=yGKzIhYO2lyoVPoW
+- **Админ** · 16.07 04:23 · [→](../general/2025-07-w3.md#m26966) кек. днд теперь тоже походу в сторону карточек двигается https://www.youtube.com/watch?v=evsJ_nZ7Sws
+- **Админ** · 17.07 01:37 · [→](../general/2025-07-w3.md#m27345) https://youtube.com/shorts/o6rbW0Xihqw?si=58oQG-3FhYNDplKD
+- **Админ** · 22.07 01:15 · [→](../general/2025-07-w4.md#m28293) https://youtube.com/shorts/pw6sGahCzBQ?si=A7c1ZerG2MGz0fZo
+- **Админ** · 22.07 11:09 · [→](../general/2025-07-w4.md#m28336) https://youtu.be/z5jrMxJaT28?si=FfmGb0Muj_IdJcsq
+- **Админ** · 23.07 06:47 · [→](../general/2025-07-w4.md#m28593) https://www.youtube.com/watch?v=kmcIHGmy-fA
+- **Админ** · 25.07 08:58 · [→](../topics/02-файлы-полезное-и-хоумрулы.md#m29207) https://www.youtube.com/watch?v=3v5XJtRMQAM
+- **Иван** · 25.07 10:16 · [→](../general/2025-07-w4.md#m29314) https://youtu.be/G7OCKYZjOcY?si=j4rXuGwjP2Zunrnw
+- **Админ** · 25.07 10:50 · [→](../general/2025-07-w4.md#m29337) https://youtu.be/wliAadaynck?si=fGTYx8lbjpIn_CYB
+- **Админ** · 31.07 10:42 · [→](../general/2025-07-w5.md#m32919) https://youtu.be/quSRxQEF3iQ?si=8wPfYgh5g3pDLIIV
+- **Админ** · 31.07 11:55 · [→](../general/2025-07-w5.md#m33196) https://www.youtube.com/watch?v=oVrCN8ptO_8
+- **Юрий Киценко** · 31.07 12:12 · [→](../general/2025-07-w5.md#m33215) https://www.youtube.com/watch?v=oVrCN8ptO_8
+- **Вадим Чечёткин** · 31.07 13:45 · [→](../general/2025-07-w5.md#m33509) https://www.youtube.com/shorts/AjI7kDssOQw?feature=share
+- **Anna** · 01.08 02:52 · [→](../general/2025-08-w1.md#m33896) запись их геккона https://www.youtube.com/live/arl-ofCJpyA?si=7RBE_0-pER2Eyt20
+- **Админ** · 02.08 02:28 · [→](../general/2025-08-w1.md#m35226) https://youtu.be/T1zTJpt6Mlw?si=FD5FvMYUyE5ToFvm
+- **Админ** · 02.08 07:11 · [→](../general/2025-08-w1.md#m35235) https://www.youtube.com/shorts/VBLi9ZBGyMo?feature=share
+- **Админ** · 02.08 08:41 · [→](../general/2025-08-w1.md#m35276) https://youtube.com/shorts/Gdrn827osTU?si=1PfRGgmeTzEtnQQX
+- **Админ** · 02.08 10:45 · [→](../general/2025-08-w1.md#m35332) Геймплей ремейка г1 показали во второй части ролика. Выход 1 квартал 26 года. https://youtu.be/TZ7Tk1XoAdQ?si=zPOwsHpZb…
+- **Админ** · 03.08 01:49 · [→](../general/2025-08-w1.md#m35577) https://youtube.com/shorts/oNJ5fSH1RDs?si=XgRqP21ubzL9x9gl
+- **Alex Kozlov** · 03.08 02:16 · [→](../general/2025-08-w1.md#m35578) https://www.youtube.com/watch?v=mEuwZbNde2s
+- **Админ** · 03.08 17:56 · [→](../general/2025-08-w1.md#m35896) https://youtu.be/wPb_RGXa3Qw?si=HNysCkRhud_Nj9yj
+- **Админ** · 04.08 01:38 · [→](../general/2025-08-w1.md#m36110) https://youtu.be/29vqM27nJz8?si=NFWgqx4B8jWRhw9r
+- **Админ** · 06.08 01:43 · [→](../general/2025-08-w1.md#m37384) https://youtube.com/shorts/31zjOF2QuOo?si=H8Pn2ycdH4HoiVE0
+- **Админ** · 07.08 01:21 · [→](../general/2025-08-w1.md#m37787) https://youtu.be/swSZ-zVOsT0
+- **Ivan** · 07.08 11:48 · [→](../general/2025-08-w1.md#m38590) https://youtu.be/mOxL6JU5EIA?feature=shared
+- **мемнарх** · 07.08 18:22 · [→](../topics/02-файлы-полезное-и-хоумрулы.md#m38774) https://www.youtube.com/playlist?list=PLHSx4qj12AEaA06l84OuUGuPcFDf2MZKX  Примеры отыгрыша боевых и социальных энкаунте…
+- **Админ** · 08.08 04:09 · [→](../general/2025-08-w2.md#m38806) вроде не скидывал https://www.youtube.com/watch?v=YetsTZL_uGI
+- **Иван** · 08.08 11:05 · [→](../general/2025-08-w2.md#m39396) https://youtube.com/shorts/WKoEh0iKAeM?si=xOFIYk2KkqGlxE_Y
+- **Zigzager** · 08.08 12:31 · [→](../general/2025-08-w2.md#m39635) https://youtube.com/@awakened_dm?si=NtSbdlpANhuNDnPm
+- **Админ** · 09.08 01:28 · [→](../general/2025-08-w2.md#m39946) https://youtu.be/NT82Tng8s-I?si=JBjmsw4e9GXygp4z
+- **Админ** · 09.08 06:37 · [→](../general/2025-08-w2.md#m40022) https://www.youtube.com/watch?v=yTEs6M4g7g0
+- **Админ** · 09.08 06:40 · [→](../general/2025-08-w2.md#m40026) https://www.youtube.com/watch?v=Sf4zvseEErI
+- **Constantine** · 09.08 12:51 · [→](../general/2025-08-w2.md#m40110) Если тебе или кому-то еще интересно, то не так давно появился на ютубе канал хороший: https://www.youtube.com/@LetsGoRo…
+- **Alex Kozlov** · 10.08 22:56 · [→](../general/2025-08-w2.md#m40404) https://youtube.com/shorts/FbbKpphGcbI?si=72Z2WdsBvg2aIGBd
+- **Админ** · 12.08 10:08 · [→](../general/2025-08-w2.md#m41223) https://youtu.be/NfZZK8_YD9M?si=M2cxd2Wy7IG_jgQS
+- **Админ** · 13.08 01:20 · [→](../general/2025-08-w2.md#m42003) https://youtu.be/HENAnRsFarY
+- **Кирилл Блахин** · 13.08 17:22 · [→](../general/2025-08-w2.md#m42682) Как тоссы Мне нравится такой вариант https://youtu.be/_cAtsO21TH4?si=zmpFwwMF81bY7XIe
+- **Админ** · 14.08 01:35 · [→](../general/2025-08-w2.md#m42819) https://youtu.be/HENAnRsFarY
+- **Админ** · 15.08 01:03 · [→](../general/2025-08-w3.md#m43473) https://youtube.com/shorts/D7vB1FRewVI?si=f8Kf1FTEXhXISDh2
+- **Админ** · 16.08 01:13 · [→](../general/2025-08-w3.md#m43978) https://youtube.com/shorts/aapT51yq4VA?si=prktecf5o4GQyelV
+- **Олег** · 16.08 01:42 · [→](../general/2025-08-w3.md#m43987) https://youtu.be/2zn0qfWlRL8?si=I8Z3uPhCGrvxa9WK
+- **Олег** · 18.08 11:54 · [→](../general/2025-08-w3.md#m46239) https://youtu.be/hAQIlXnYUDk?si=b5L2CiwmbZ9CMXrE
+- **Олег** · 18.08 14:18 · [→](../general/2025-08-w3.md#m46294) Вот как-то так оно выглядит в спокойных условиях: https://youtube.com/shorts/6Vxp4QSvojk?si=_C2bqeYKR5fEDYA2
+- **Админ** · 19.08 01:39 · [→](../general/2025-08-w3.md#m46435) NBC: Владимир Зеленский получил от европейских лидеров наставления о том, как вести себя с Дональдом Трампом   Среди со…
+- **Админ** · 19.08 02:13 · [→](../general/2025-08-w3.md#m46437) https://www.youtube.com/watch?v=TIoT4IazR80
+- **Админ** · 21.08 01:22 · [→](../general/2025-08-w3.md#m47874) https://youtu.be/rFsxIl3ryTo?si=hlxP_pRRvAqkgM5P
+- **Alex Kozlov** · 21.08 20:18 · [→](../general/2025-08-w3.md#m48570) https://youtu.be/nY1JaWT-CKo?si=coerohjtebQwQV3W
+- **Anna** · 22.08 09:00 · [→](../general/2025-08-w4.md#m48791) это? https://youtu.be/KlIkkeWmVvA?si=sfeco9ukxRS_S7MZ
+- **Админ** · 23.08 01:08 · [→](../general/2025-08-w4.md#m49990) https://youtube.com/shorts/01uZ1DuV5Po?si=6LSiwNxk45nEC74e
+- **Админ** · 23.08 06:50 · [→](../general/2025-08-w4.md#m50012) https://www.youtube.com/watch?v=mEuwZbNde2s
+- **Админ** · 23.08 11:01 · [→](../general/2025-08-w4.md#m50075) https://youtu.be/XgmXgIS8E-o?si=3Hkda1S2VgFjw-sR
+- **Sasha** · 23.08 20:59 · [→](../general/2025-08-w4.md#m50221) Продолжаю по K-Pop Demon Hunters Campaign Frame  https://youtu.be/IJEEsqLkB6o?si=TF4PXsPh8pz7l4Ga
+- **Алексей Ершов** · 24.08 08:41 · [→](../general/2025-08-w4.md#m50483) Пересмотрел старый ролик Колвилла про Вестмарш, по понятным причинам. Нашёл неожиданно много рекомендаций, которые напо…
+- **Роман** · 25.08 19:32 · [→](../general/2025-08-w4.md#m51076) Они на английском, но можно русские субтитры в ютубе включить https://www.youtube.com/watch?v=Q-fLzW_H5ss
+- **Anna** · 26.08 04:44 · [→](../general/2025-08-w4.md#m51497) https://youtu.be/h6ukSRvYgs8?si=PcTA_RUjrgG4Z5Ic
+- **Анна Белая** · 26.08 12:02 · [→](../general/2025-08-w4.md#m51691) https://www.youtube.com/watch?v=CNI_VdvT9Sg
+- **Олег** · 27.08 08:24 · [→](../general/2025-08-w4.md#m52079) плейлист игр по Умбре (Critical Role) https://www.youtube.com/watch?v=Fq5YTuRLzWo&list=PL1tiwbzkOjQyLAwOfoBe6HjYZMnQbXN…
+- **Олег** · 27.08 08:42 · [→](../general/2025-08-w4.md#m52139) Вот пример провала Знаний со страхом) https://youtu.be/Zyz3eMnixeE?si=rbNEg8TnfFWPIT8x
+- **Алексей Ершов** · 27.08 11:33 · [→](../general/2025-08-w4.md#m52781) уфф, я бы там исходник лучше приложил, но у меня его нет)  Суть (вспоминаю из головы и могу врать): у НПЦ есть счётчик …
+- **Kchau_ekb** · 28.08 06:29 · [→](../general/2025-08-w4.md#m53345) https://www.youtube.com/watch?v=DJrvCbIFO1Q
+- **Админ** · 28.08 15:40 · [→](../general/2025-08-w4.md#m53840) о, тут оказывается дневники разработчиков выходили на русском https://www.youtube.com/watch?v=K6Hf9gbT3rw
+- **Олександр Теранит** · 30.08 06:16 · [→](../general/2025-08-w5.md#m54258) https://www.youtube.com/watch?v=oNnRaKoaOfE
+- **Александр Алалыкин** · 01.09 09:02 · [→](../general/2025-09-w1.md#m54497) https://www.youtube.com/watch?v=xeIMyGU6skk Вот ссылка на видос интервью с хозяином клуба
+- **Админ** · 01.09 11:23 · [→](../general/2025-09-w1.md#m54869) https://www.youtube.com/watch?v=yq0EJiuEFHs
+- **Админ** · 02.09 01:37 · [→](../general/2025-09-w1.md#m55068) https://youtube.com/shorts/tzQh8xfCbMw?si=SHQKgS3rKjkjHn8n
+- **Sasha** · 03.09 11:05 · [→](../general/2025-09-w1.md#m55857) https://youtube.com/shorts/dKg2sip7yTU?si=nP4u21qOpRvhDO83 Я нашёл
+- **Ivan Trifonov** · 03.09 20:08 · [→](../general/2025-09-w1.md#m55928) DnD Кинжалсердце Противники Это как раз то, о чем говорится в названии! Я сделал руководство по конвертации для превращ…
+- **Админ** · 10.09 11:24 · [→](../general/2025-09-w2.md#m57389) https://www.youtube.com/watch?v=X6WnhVmllaQ
+- **Админ** · 12.09 01:17 · [→](../general/2025-09-w2.md#m57653) https://youtu.be/J3xaa7AOIDA
+- **Админ** · 12.09 01:18 · [→](../general/2025-09-w2.md#m57654) https://youtu.be/q7d-oFosP8k
+- **Anna** · 13.09 06:25 · [→](../general/2025-09-w2.md#m57763) Мне кажется этот господин говорит очень толковые вещи  https://youtu.be/J3xaa7AOIDA?si=-0dT_9B2nBw7If5j
+- **Админ** · 16.09 01:26 · [→](../general/2025-09-w3.md#m58025) https://youtube.com/shorts/4Ne0BER46g8?si=kklp4BmSVmjrynN8 Тебе не надстройка нужна, а блокнот и карандашик, которым ты…
+- **Админ** · 16.09 10:43 · [→](../general/2025-09-w3.md#m58137) https://youtu.be/lf5FpI6bzts?si=wkTGqQqbroSz0DZu
+- **Админ** · 21.09 01:29 · [→](../general/2025-09-w3.md#m58757) https://youtube.com/shorts/Q9uMrU7QWbY?si=SeYCX4Zxq8sAeJw Базовый стол для дх
+- **Max** · 22.09 16:42 · [→](../general/2025-09-w4.md#m58817) 15 мин. перерыв - я локацию быстро накидаю (с)  https://youtu.be/8gOwqPQV9ZQ?t=34
+- **Alex Kozlov** · 24.09 09:23 · [→](../general/2025-09-w4.md#m58847) https://youtu.be/1pKvM_N9qq4?si=DlbGJ7CepMEz0zYf 😏 Тут был задан вопрос про скриптед ли критикал рол)
+- **Админ** · 25.09 01:20 · [→](../general/2025-09-w4.md#m58856) https://youtu.be/1pKvM_N9qq4?si=Fq_GVWRZaCfqawFl
+- **Админ** · 01.10 21:59 · [→](../general/2025-10-w1.md#m59326) https://www.youtube.com/watch?v=9pxz6obI-D0
+- **Админ** · 03.10 10:30 · [→](../general/2025-10-w1.md#m59552) https://www.youtube.com/watch?v=u4s42Hl29Bs&t=10s
+- **Anna** · 06.10 10:09 · [→](../general/2025-10-w1.md#m59834) отсюда и далее еще 3 вроде серии https://youtu.be/VvnRm2uLboA?si=E4Rn2Q8jEVFH9Jym
+- **Александр Алалыкин** · 06.10 13:34 · [→](../general/2025-10-w1.md#m59915) Вспомнились всякие видосики индусские В частности: https://www.youtube.com/watch?v=BcmUOmvl1N8
+- **Ярик** · 07.10 12:41 · [→](../general/2025-10-w1.md#m60162) когда взял Оборотня и понял, что у тебя не будет Надежды https://youtube.com/shorts/dTTDemkc-hg?si=I9fQzdF-jCvwhGW3
+- **Anna** · 07.10 15:02 · [→](../general/2025-10-w1.md#m60193) https://youtu.be/wwqmFbKbyfQ?si=WeG41pN6XSmk69l4
+- **Алексей Ершов** · 08.10 10:48 · [→](../general/2025-10-w2.md#m60230) я водил as written для пятерых, и они просто размазали чертополошников, точно надо переделывать энкаунтер  Если интерес…
+- **Админ** · 11.10 14:13 · [→](../general/2025-10-w2.md#m60512) https://www.youtube.com/watch?v=GMiR8vbFGtU
+- **Админ** · 13.10 11:21 · [→](../general/2025-10-w2.md#m60704) https://www.youtube.com/watch?v=t1_w-RW-vN0
+- **Админ** · 15.10 16:45 · [→](../general/2025-10-w3.md#m60852) https://youtu.be/rQvxYxstakg?si=LCzoyUTmIacxSGGS
+- **Админ** · 16.10 07:17 · [→](../general/2025-10-w3.md#m60890) https://youtube.com/shorts/qwv0ulG7LTM?si=AruwNg0vs9lUAmd2
+- **Вадим Чечёткин** · 17.10 13:02 · [→](../general/2025-10-w3.md#m61010) https://www.youtube.com/watch?v=gREX6nXiMAY
+- **Админ** · 17.10 15:54 · [→](../general/2025-10-w3.md#m61028) https://www.youtube.com/watch?v=UUjsNntbvX8  Кто-то должен был сделать эту картинку рано или поздно
+- **Админ** · 24.10 12:15 · [→](../general/2025-10-w4.md#m61426) https://www.youtube.com/watch?v=IawnhlX7j4E
+- **Админ** · 27.10 11:01 · [→](../general/2025-10-w4.md#m61646) Сегодня расскажу еще про одну механику, которую придумал вместо стандартного боя. Механ опробован и показал себя весьма…
+- **Админ** · 28.10 19:54 · [→](../general/2025-10-w4.md#m61986) https://www.youtube.com/watch?v=Qp9_vUwew6c
+- **Админ** · 31.10 11:44 · [→](../general/2025-10-w5.md#m62273) что всем этим ребятам мешало погреться у костра? А у них про экипировка для восхождений, примусы и палатки https://www.…
+- **Админ** · 31.10 13:59 · [→](../general/2025-10-w5.md#m62378) https://www.youtube.com/watch?v=24EP-Arg0G8
+- **Админ** · 03.11 11:04 · [→](../general/2025-11-w1.md#m62624) https://www.youtube.com/watch?v=_3y0KuL2ZS8
+- **Админ** · 10.11 12:17 · [→](../general/2025-11-w2.md#m63824) играли? https://www.youtube.com/watch?v=VmCvBM2nayU я на старте игрался - оч хороша игра
+- **Anna** · 12.11 14:56 · [→](../general/2025-11-w2.md#m64577) https://www.youtube.com/live/arl-ofCJpyA?si=dP5xkAoHUUV25ck- Во второй половине
+- **Админ** · 12.11 15:19 · [→](../general/2025-11-w2.md#m64651) https://www.youtube.com/watch?v=9LdUL7ZgOxI  выкатили трейлер на коленке. Занатар в конце прикольный
+- **Anna** · 14.11 09:32 · [→](../topics/02-файлы-полезное-и-хоумрулы.md#m65272) Видео материалы по даггерхарту:  Часть 1. Daggerheart, Обзор: https://youtu.be/VvnRm2uLboA?si=s8ZCAlw6wVCbDpY8 Часть 2.…
+- **Anna** · 14.11 09:33 · [→](../general/2025-11-w2.md#m65273) Видео материалы по даггерхарту:  Часть 1. Daggerheart, Обзор: https://youtu.be/VvnRm2uLboA?si=s8ZCAlw6wVCbDpY8 Часть 2.…
+- **Админ** · 14.11 09:33 · [→](../general/2025-11-w2.md#m65276) Видео материалы по даггерхарту:  Часть 1. Daggerheart, Обзор: https://youtu.be/VvnRm2uLboA?si=s8ZCAlw6wVCbDpY8 Часть 2.…
+- **Anna** · 14.11 09:38 · [→](../topics/02-файлы-полезное-и-хоумрулы.md#m65283) Видео стрим лайвплей ваншот от создателя даггерхарта Спенсера Старка с генкона (Eng):  https://www.youtube.com/live/arl…
+- **Вадим Чечёткин** · 14.11 09:47 · [→](../general/2025-11-w2.md#m65284) https://youtu.be/Mvht2clqats прайм первую серию могучей девятки зарелизили на ютуб (естественно на англ только) если ко…
+- **Админ** · 14.11 11:07 · [→](../general/2025-11-w2.md#m65319) после посмотри сериал Франшиза. Это тоже комедия про то как снимают фильмы типа марвел со всем абсурдом доведенным до п…
+- **Админ** · 14.11 11:21 · [→](../general/2025-11-w2.md#m65321) а блин, еще обязательно фильм Каскадёры 2024 года https://www.youtube.com/watch?v=1ocUfrPiCWs Это просто ода воспевающа…
+- **Pavel** · 15.11 17:04 · [→](../general/2025-11-w3.md#m65614) Кто-нибудь смотрел?) Сама игра смешная была, но меня интересует, если вдруг у кого-то есть мнение по использованию ими …
+- **Alex Kozlov** · 20.11 19:53 · [→](../general/2025-11-w3.md#m66352) https://youtu.be/UQsJIo46ZR8?si=nRK7qUlzbLM0upR3
+- **Админ** · 21.11 04:27 · [→](../general/2025-11-w3.md#m66355) https://youtube.com/shorts/x2Nt_5KCxFs?si=xHL56Q8jFxNFvAhC
+- **Anna** · 21.11 16:12 · [→](../general/2025-11-w3.md#m66487) нашла нашла нашла https://youtube.com/shorts/xWLqePg6qcw?si=LlsfSMF7JsiOAjUJ
+- **Админ** · 21.11 16:20 · [→](../general/2025-11-w3.md#m66512) https://www.youtube.com/watch?v=X6WnhVmllaQ
+- **Anna** · 21.11 16:53 · [→](../general/2025-11-w3.md#m66559) https://youtube.com/shorts/d9_nh225Xbc?si=qwlHIj4YiMYgzcXA
+- **Alex Kozlov** · 21.11 18:11 · [→](../general/2025-11-w3.md#m66566) https://youtu.be/DNltwvps_1c?si=AlmQWHFVW6quPqMS
+- **Alex Kozlov** · 22.11 22:29 · [→](../general/2025-11-w4.md#m66919) Анонсы отсюда  https://www.youtube.com/watch?v=caRPJKNoaZk  не знаю писал ли кто-то их тут. (я не все посмотрел минут 2…
+- **Админ** · 23.11 04:30 · [→](../general/2025-11-w4.md#m66925) https://youtube.com/shorts/SlZtgLjQNp4?si=jd4Xro6xJhJVXbFN
+- **Anna** · 26.11 14:16 · [→](../general/2025-11-w4.md#m67513) Видео стрим лайвплей ваншот от создателя даггерхарта Спенсера Старка с генкона (Eng):  https://www.youtube.com/live/arl…
+- **Cucumber Brine** · 26.11 16:38 · [→](../general/2025-11-w4.md#m67544) https://youtu.be/CycpB8s5AV8?si=vaiJGeDEWF_G8Afd Вот на русском пример игры
+- **Александр Алалыкин** · 28.11 10:28 · [→](../general/2025-11-w4.md#m67898) https://youtu.be/pXe0QwYs-j8?si=y9DG3Lta_L431Fwy
+- **Админ** · 30.11 04:27 · [→](../general/2025-11-w5.md#m68075) https://www.youtube.com/watch?v=Ps3WSSiTKl0&pp=ygUZ0YHQuNGB0YzQutCwINGB0LjRgdGM0LrQsA%3D%3D
+- **Админ** · 02.12 04:30 · [→](../general/2025-12.md#m68113) Новости НРИ • Daggerheart: первое расширение • хаки на Shadowdark и MÖRK BORG - YouTube https://www.youtube.com/watch?v…
+- **Anna** · 03.12 11:15 · [→](../general/2025-12.md#m68144) https://youtu.be/CycpB8s5AV8?si=vaiJGeDEWF_G8Afd Вот на русском пример игры
+- **Админ** · 03.12 12:24 · [→](../general/2025-12.md#m68167) https://www.youtube.com/watch?v=CycpB8s5AV8 тут комменты его ищи
+- **Админ** · 06.12 11:30 · [→](../general/2025-12.md#m68370) https://www.youtube.com/watch?v=FC48gti3tXY&feature=youtu.be https://www.patreon.com/c/animatedmaps
+- **Anna** · 07.12 08:04 · [→](../general/2025-12.md#m68388) https://youtu.be/CycpB8s5AV8?si=vaiJGeDEWF_G8Afd Вот на русском пример игры
+- **Админ** · 12.12 04:42 · [→](../general/2025-12.md#m68578) https://youtu.be/oChJh43YbZw?si=AeKUSwSb34mu3Ozs
+- **Админ** · 13.12 14:16 · [→](../general/2025-12.md#m68646) https://youtu.be/ayW7oCXggoE?si=E6U-Xp7tj9pWXxz4
+- **Sasha** · 17.12 14:00 · [→](../general/2025-12.md#m69364) https://www.youtube.com/watch?v=METTzGKzmxU
+- **Админ** · 20.12 07:04 · [→](../general/2025-12.md#m69447) - Блеск! - Блеееск! https://www.youtube.com/watch?v=xEpWIa9pho0
+- **Александр Алалыкин** · 06.01 09:03 · [→](../general/2026-01-w1.md#m70648) https://www.youtube.com/watch?v=UBwMwhwQBHA
+- **Админ** · 09.01 18:18 · [→](../general/2026-01-w2.md#m70775) https://www.youtube.com/watch?v=g_dEpN_f_K4
+- **Александр Солодовников** · 10.01 02:52 · [→](../general/2026-01-w2.md#m70784) https://youtu.be/QJeeXMVy-uo
+- **Jew eler** · 12.01 14:37 · [→](../general/2026-01-w2.md#m71050) https://www.youtube.com/shorts/iVRDfnL2Z_M
+- **Александр Солодовников** · 12.01 18:19 · [→](../general/2026-01-w2.md#m71124) https://youtu.be/lU8mEMxEMkc?si=xe4ByNjNjGPkuOyE
+- **Алексей Ершов** · 21.01 13:00 · [→](../general/2026-01-w3.md#m72582) недавно тоже интересовался, выпал вот такой видос интересный https://youtu.be/yL5V9qxJYkk?si=1tA6phqHCugijaS1
+- **Anna** · 25.01 18:37 · [→](../general/2026-01-w4.md#m73080) в таком случае надо смотреть не Умбру, а ваншот от создателя даггерхарта Спенсера Старка с генкона (Eng): https://www.y…
+- **Airat Khazipov** · 29.01 22:34 · [→](../general/2026-01-w5.md#m73572) https://www.youtube.com/watch?v=4JtUPBkYQOY
+- **Админ** · 02.02 10:55 · [→](../general/2026-02.md#m73987) с 7-45  https://www.youtube.com/watch?v=TcB2MeSSuaU
+- **Админ** · 08.02 16:38 · [→](../general/2026-02.md#m74637) на будущее, если кто-то захочет фокусника в игру ввести или играть им https://www.youtube.com/watch?v=VCYAIxm2aa8
+- **Админ** · 12.02 10:20 · [→](../general/2026-02.md#m74754) ну наконец-то! 5 июня https://www.youtube.com/watch?v=0We-UgJKJp8
+- **Алексей Ершов** · 14.02 17:12 · [→](../general/2026-02.md#m75000) Нету, я только видосы смотрел) https://youtu.be/jWOw8p4YSxQ?si=pYap7-Tv2bzMRaEp https://youtu.be/A5_dDGbiGBk?si=S6iyILu…
+- **Bogdan Polonsky** · 19.02 12:27 · [→](../general/2026-02.md#m75141) https://www.youtube.com/watch?v=9t9dCQG_J-E
+- **Админ** · 27.02 20:30 · [→](../general/2026-02.md#m75850) https://www.youtube.com/watch?v=edHhSe_KYTU
+- **Админ** · 06.03 05:46 · [→](../general/2026-03.md#m76450) https://www.youtube.com/watch?v=i9DrGNL_LZ8
+- **Админ** · 08.03 05:35 · [→](../general/2026-03.md#m76683) первая шутки в трейлере https://www.youtube.com/watch?v=bxEok3A38Gw
+- **Sasha** · 05.04 16:03 · [→](../general/2026-04.md#m77443) Там еще где-то есть плейлист для атмосферы Five Banners Burning https://www.youtube.com/playlist?list=PLGvEMtY18bM1d7Gi…
+- **Админ** · 24.04 16:20 · [→](../general/2026-04.md#m78362) живите с этим https://www.youtube.com/watch?v=Xd2YZSfyWy8
+- **Админ** · 27.04 12:55 · [→](../topics/05-новости.md#m78471) с 7 минуты про дх https://www.youtube.com/watch?v=Lr5kdpLXpvQ
+- **dreameater_ Дрёма** · 03.05 22:23 · [→](../general/2026-05.md#m78808) там не наш перевод, скорее всего. Я пока только начал смотреть.  https://www.youtube.com/watch?v=SP45t7TKYJI&list=PLF61…
+- **Иван** · 04.05 17:45 · [→](../general/2026-05.md#m78912) https://youtu.be/mZ3zQEsd8bQ?si=wOS1v_S2mxcoyFjR  Не смотрел, но мб ещё +1 пример игры в то сообщение @daggercatt
+- **dreameater_ Дрёма** · 05.05 13:31 · [→](../general/2026-05.md#m78966) https://youtu.be/X8vtM6PEFQY?si=H8Sf9vf0ccgcq-Ma&t=78
+- **Sasha** · 05.05 15:00 · [→](../topics/05-новости.md#m78982) Vol 26: Fey & Feline (Феи и Котики) Планируется релиз очередного VTT Heart of Daggers "Scenes" https://youtu.be/MDf6rJf…
+- **Админ** · 05.05 15:01 · [→](../general/2026-05.md#m78985) Vol 26: Fey & Feline (Феи и Котики) Планируется релиз очередного VTT Heart of Daggers "Scenes" https://youtu.be/MDf6rJf…
+- **Anna** · 07.05 22:32 · [→](../topics/02-файлы-полезное-и-хоумрулы.md#m79184) Видео стримы игры лайв в даггерхарт  РУ  Living Room Studio: https://youtu.be/CycpB8s5AV8?si=vaiJGeDEWF_G8Afd  Ролевая …
+- **dreameater_ Дрёма** · 22.05 16:47 · [→](../general/2026-05.md#m79574) https://www.youtube.com/watch?v=B5gz7IOk0TU&t=2181s
+- **Александр "Ланс" Фиглин** · 25.05 11:53 · [→](../general/2026-05.md#m79603) Официальная тема Даггерхарта  https://youtu.be/uZCsinaEUr8?si=vBSXnHR8xi-ojD8O
+- **Админ** · 25.05 11:56 · [→](../topics/02-файлы-полезное-и-хоумрулы.md#m79604) Официальная тема Даггерхарта  https://youtu.be/uZCsinaEUr8?si=vBSXnHR8xi-ojD8O

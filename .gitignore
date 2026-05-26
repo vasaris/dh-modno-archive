@@ -1,0 +1,5 @@
+.session-string.txt
+__pycache__/
+*.pyc
+site/
+.DS_Store
