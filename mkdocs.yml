@@ -1,6 +1,6 @@
 site_name: Daggerheart Modno — архив
 site_description: Архив телеграм-группы с навигацией и поиском
-docs_dir: .
+docs_dir: docs
 site_dir: site
 
 theme:
@@ -45,12 +45,3 @@ markdown_extensions:
   - toc:
       permalink: true
       permalink_title: Ссылка на этот раздел
-
-exclude_docs: |
-  .automation/
-  .github/
-  .git/
-  site/
-  *.json
-  *.py
-  *.zip

@@ -25,8 +25,14 @@ jobs:
           python-version: '3.11'
 
       - name: Install MkDocs Material + plugins
+        run: pip install mkdocs-material mkdocs-awesome-pages-plugin
+
+      - name: Prepare docs directory
         run: |
-          pip install mkdocs-material mkdocs-awesome-pages-plugin
+          mkdir -p docs
+          cp README.md docs/index.md
+          cp -r topics general general-archive tags docs/
+          cp .pages docs/.pages
 
       - name: Build site
         run: mkdocs build
