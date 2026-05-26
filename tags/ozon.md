@@ -6,7 +6,7 @@ _4 сообщений._
 
 ---
 
-- **Александр Алалыкин** · 19.07 05:50 · [→](../general/2025-07-w3.md#m27729) Я этот брал: https://www.ozon.ru/product/uglorez-dlya-bumagi-4-7-10-mm-tochnyy-i-chistyy-srez-bez-zausentsev-1711683438/
-- **Саша** · 19.07 20:19 · [→](../general/2025-07-w3.md#m27865) https://ozon.ru/t/lQLv5fW
-- **Michael Kokhas** · 02.08 11:42 · [→](../general/2025-08-w1.md#m35346) Жетоны страха Daggerheart https://ozon.ru/t/hwep8Rh :)
-- **Michael Kokhas** · 12.08 00:04 · [→](../general/2025-08-w2.md#m41030) https://ozon.ru/t/oGdbeIS XD бери сразу несколько. впрок)
+- **Александр Алалыкин** · 19.07 05:50 · [архив](../general/2025-07-w3.md#m27729) · [TG ↗](https://t.me/daggerheart_ru/27729) — Я этот брал: https://www.ozon.ru/product/uglorez-dlya-bumagi-4-7-10-mm-tochnyy-i-chistyy-srez-bez-zausentsev-1711683438/
+- **Саша** · 19.07 20:19 · [архив](../general/2025-07-w3.md#m27865) · [TG ↗](https://t.me/daggerheart_ru/27865) — https://ozon.ru/t/lQLv5fW
+- **Michael Kokhas** · 02.08 11:42 · [архив](../general/2025-08-w1.md#m35346) · [TG ↗](https://t.me/daggerheart_ru/35346) — Жетоны страха Daggerheart https://ozon.ru/t/hwep8Rh :)
+- **Michael Kokhas** · 12.08 00:04 · [архив](../general/2025-08-w2.md#m41030) · [TG ↗](https://t.me/daggerheart_ru/41030) — https://ozon.ru/t/oGdbeIS XD бери сразу несколько. впрок)
