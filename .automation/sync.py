@@ -51,7 +51,7 @@ async def sync():
     api_id = int(os.environ['TG_API_ID'])
     api_hash = os.environ['TG_API_HASH']
     session = os.environ['TG_SESSION']
-    group_id = int(os.environ['TG_GROUP_ID'])
+    group_id = os.environ['TG_GROUP_ID']
 
     state = load_state()
     min_id = state['last_message_id']
