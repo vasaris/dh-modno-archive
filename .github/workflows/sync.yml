@@ -2,8 +2,13 @@ name: Sync Telegram
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 * * * *'          # hourly (GitHub may delay/skip at the top of the hour)
   workflow_dispatch:
+
+# avoid overlapping runs if one is slow
+concurrency:
+  group: tg-sync
+  cancel-in-progress: false
 
 jobs:
   sync:
@@ -16,13 +21,18 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install telethon
-      - env:
+      - name: Pull new messages
+        env:
           TG_API_ID: ${{ secrets.TG_API_ID }}
           TG_API_HASH: ${{ secrets.TG_API_HASH }}
           TG_SESSION: ${{ secrets.TG_SESSION }}
           TG_GROUP_ID: ${{ secrets.TG_GROUP_ID }}
+          TG_TZ: ${{ vars.TG_TZ || 'Europe/Moscow' }}
         run: python .automation/sync.py
-      - run: |
+      - name: Regenerate derived layers
+        run: python .automation/regen.py
+      - name: Commit & push if changed
+        run: |
           git config user.name "tg-sync-bot"
           git config user.email "tg-sync@noreply.local"
           git add -A
