@@ -8,20 +8,20 @@ _Сообщения сгруппированы по типу контента._
 
 | Тег | Сообщений |
 |---|---:|
-| [🖼️ С фото](photo.md) | 3637 |
+| [🖼️ С фото](photo.md) | 3639 |
 | [🎬 Видео](video.md) | 875 |
 | [✈️ Telegram-ссылки](telegram.md) | 551 |
 | [🎨 Изображения (файлом)](image.md) | 394 |
 | [▶️ YouTube](youtube.md) | 226 |
-| [📄 PDF-вложения](pdf.md) | 114 |
+| [📄 PDF-вложения](pdf.md) | 123 |
 | [📝 Google Docs / Drive](google-docs.md) | 72 |
 | [🤖 Reddit](reddit.md) | 58 |
 | [⚔️ Daggerheart Official](daggerheart-official.md) | 36 |
 | [📌 Закреплённые](pinned.md) | 27 |
 | [🗜️ Архивы (zip/rar/7z)](archive.md) | 19 |
 | [💰 Patreon / Boosty](patreon.md) | 19 |
+| [🔵 ВКонтакте](vk.md) | 12 |
 | [🌿 FreshCutGrass](freshcutgrass.md) | 11 |
-| [🔵 ВКонтакте](vk.md) | 11 |
 | [🎵 Аудио](audio.md) | 10 |
 | [🌐 Demiplane](demiplane.md) | 10 |
 | [☁️ Яндекс.Диск](yandex-disk.md) | 9 |
