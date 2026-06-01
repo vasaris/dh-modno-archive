@@ -556,4 +556,4 @@ _551 сообщений._
 - **Смотрящий** · 29.04 13:01 · [архив](../general/2026-04.md#m78553) · [TG ↗](https://t.me/daggerheart_ru/78553) — Приветствую @Psinablohastay! Правила и материалы тут: https://t.me/daggerheart_ru/1/19627
 - **Иван** · 01.05 20:21 · [архив](../general/2026-05.md#m78637) · [TG ↗](https://t.me/daggerheart_ru/78637) — + Набор карт и фонов для Посланников Сэйблвуда: https://t.me/daggerheart_ru/7351/54648
 - **Админ** · 03.05 10:35 · [архив](../general/2026-05.md#m78736) · [TG ↗](https://t.me/daggerheart_ru/78736) — ПРАВИЛА И МАТЕРИАЛЫ   1️⃣ Мы приветствуем вопросы/ответы по правилам и неназойливые обсуждения связанные исключительно …
-- **Админ** · 22.05 22:03 · [архив](../general/2026-05.md#m79583) · [TG ↗](https://t.me/daggerheart_ru/79583) — https://t.me/daggerheart_foundry/1942
+- **Админ** · 22.05 22:03 · [архив](../general/2026-05.md#m79583) · [TG ↗](https://t.me/daggerheart_ru/79583) — https://t.me/daggerheart_foundry/1942- **Ivan Trifonov** · 28.05 16:05 · [архив](../general/2026-05.md#m79761) · [TG ↗](https://t.me/daggerheart_ru/79761) — вот мой анонс, там вайбы прописал как раз https://t.me/dndanube/77

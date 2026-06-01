@@ -119,4 +119,4 @@ _114 сообщений._
 - **Stanislav Mikhaylov** · 21.05 11:27 · [архив](../topics/02-файлы-полезное-и-хоумрулы.md#m79531) · [TG ↗](https://t.me/daggerheart_ru/7351/79531) — первое официальное приключение (кроме стартового само собой)
 - **Админ** · 21.05 11:33 · [архив](../general/2026-05.md#m79533) · [TG ↗](https://t.me/daggerheart_ru/79533) — [файл: DH_Adv_The_Wish_Thief_Adventure_Only__1_.pdf]
 - **Админ** · 21.05 11:33 · [архив](../general/2026-05.md#m79534) · [TG ↗](https://t.me/daggerheart_ru/79534) — первое официальное приключение (кроме стартового само собой)
-- **Ivan Trifonov** · 22.05 22:07 · [архив](../general/2026-05.md#m79585) · [TG ↗](https://t.me/daggerheart_ru/79585) — [файл: kassian_druid.pdf]
+- **Ivan Trifonov** · 22.05 22:07 · [архив](../general/2026-05.md#m79585) · [TG ↗](https://t.me/daggerheart_ru/79585) — [файл: kassian_druid.pdf]- **Ahav** · 01.06 08:06 · [архив](../topics/04-хоумрулы-неофициальные-механики.md#m79835) · [TG ↗](https://t.me/daggerheart_ru/19690/79835) — Домашнесваренные предметы для сообществ.

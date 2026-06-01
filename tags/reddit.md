@@ -1,6 +1,6 @@
 # 🤖 Reddit
 
-_57 сообщений._
+_58 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -62,4 +62,5 @@ _57 сообщений._
 - **Anna** · 07.05 22:32 · [архив](../topics/02-файлы-полезное-и-хоумрулы.md#m79184) · [TG ↗](https://t.me/daggerheart_ru/7351/79184) — Видео стримы игры лайв в даггерхарт  РУ  Living Room Studio: https://youtu.be/CycpB8s5AV8?si=vaiJGeDEWF_G8Afd  Ролевая …
 - **Ahav** · 21.05 05:39 · [архив](../general/2026-05.md#m79475) · [TG ↗](https://t.me/daggerheart_ru/79475) — https://www.reddit.com/r/daggerbrew/comments/1th7y5m/release_vault_of_ages_is_available_now_36_new/
 - **Ahav** · 21.05 05:52 · [архив](../general/2026-05.md#m79479) · [TG ↗](https://t.me/daggerheart_ru/79479) — https://www.reddit.com/r/daggerheart/comments/1tj6ljn/does_anyone_have_a_clearer_image_of_the_hex_crawl/
-- **Александр "Ланс" Фиглин** · 22.05 16:44 · [архив](../general/2026-05.md#m79569) · [TG ↗](https://t.me/daggerheart_ru/79569) — В целом, как верно заметили в комментах, похоже и на https://www.reddit.com/r/daggerheart/comments/1puuxud/prototype_of…
+- **Александр "Ланс" Фиглин** · 22.05 16:44 · [архив](../general/2026-05.md#m79569) · [TG ↗](https://t.me/daggerheart_ru/79569) — В целом, как верно заметили в комментах, похоже и на https://www.reddit.com/r/daggerheart/comments/1puuxud/prototype_of…- **Александр "Ланс" Фиглин** · 28.05 13:32 · [архив](../general/2026-05.md#m79750) · [TG ↗](https://t.me/daggerheart_ru/79750) — https://www.reddit.com/r/daggerheart/comments/1tjmwxa/witch_class_updates_from_birthday_stream/
+- **Александр "Ланс" Фиглин** · 30.05 16:17 · [архив](../general/2026-05.md#m79777) · [TG ↗](https://t.me/daggerheart_ru/79777) — Кит Бейкер приносит нам Клинки во Тьме) https://www.reddit.com/r/daggerheart/s/sOHegqK7lD
