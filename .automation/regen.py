@@ -234,6 +234,28 @@ def rebuild_tags_index():
     (ROOT / 'tags' / 'README.md').write_text('\n'.join(table) + '\n', encoding='utf-8')
 
 
+def update_readme_total():
+    """Refresh the live message/author totals in the README subtitle line.
+
+    Counts what's actually stored and browsable (general-archive + topics; the
+    signal version is a filtered subset, so it isn't counted). This number
+    differs from the original export total of 54,479 — that figure also counted
+    service messages, empty messages and reactions, which the archive omits.
+    """
+    msgs, authors = 0, set()
+    for p in list((ROOT / 'general-archive').glob('*.md')) + list((ROOT / 'topics').glob('*.md')):
+        for m in re.finditer(r'^### <a id="m\d+"></a>(.*?) · \d{2}\.\d{2}',
+                             p.read_text(encoding='utf-8'), re.M):
+            msgs += 1
+            authors.add(m.group(1))
+    line = (f'_Архив телеграм-группы @daggerheart_ru. Сообщений в архиве: {msgs:,} · '
+            f'авторов: {len(authors)} · пополняется автоматически._').replace(',', ' ')
+    path = ROOT / 'README.md'
+    text = path.read_text(encoding='utf-8')
+    text = re.sub(r'^_.*автор.*_$', line, text, count=1, flags=re.M)
+    path.write_text(text, encoding='utf-8')
+
+
 # ── drivers ────────────────────────────────────────────────────────────────────
 def neighbours(stems_touched, all_stems):
     out = set(stems_touched)
@@ -276,6 +298,7 @@ def run_incremental():
         append_tags(messages)
         print(f'  tagged {len(messages)} new messages')
 
+    update_readme_total()
     NEW_FILE.unlink()
     print('Regen done.')
 
@@ -291,6 +314,7 @@ def run_all():
         patch_count_and_nav(ROOT / f'general/{stem}.md', stem, all_stems)
         update_readme_month(stem, sig, arc)
     rebuild_tags_index()
+    update_readme_total()
     print('Full rebuild done.')
 
 
