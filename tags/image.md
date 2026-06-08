@@ -399,4 +399,4 @@ _394 сообщений._
 - **Админ** · 19.05 12:47 · [архив](../general/2026-05.md#m79449) · [TG ↗](https://t.me/daggerheart_ru/79449) — [файл: Minor_demon_1.webp]
 - **Админ** · 19.05 12:47 · [архив](../general/2026-05.md#m79450) · [TG ↗](https://t.me/daggerheart_ru/79450) — [файл: demon_dh_1.webp]
 - **Админ** · 19.05 12:47 · [архив](../general/2026-05.md#m79451) · [TG ↗](https://t.me/daggerheart_ru/79451) — [файл: demon_dh_2.webp]
-- **Админ** · 21.05 11:34 · [архив](../general/2026-05.md#m79537) · [TG ↗](https://t.me/daggerheart_ru/79537) — [файл: sticker.webp]
+- **Админ** · 21.05 11:34 · [архив](../general/2026-05.md#m79537) · [TG ↗](https://t.me/daggerheart_ru/79537) — [файл: sticker.webp]- **Ahav** · 08.06 14:05 · [архив](../general/2026-06.md#m80217) · [TG ↗](https://t.me/daggerheart_ru/80217) — Скинули вот такую табличку для реконверсий тиров противников. Не знаю насколько точно но думаю можно использовать
