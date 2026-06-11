@@ -1,6 +1,6 @@
 # 🤖 Reddit
 
-_59 сообщений._
+_60 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -65,3 +65,4 @@ _59 сообщений._
 - **Александр "Ланс" Фиглин** · 22.05 16:44 · [архив](../general/2026-05.md#m79569) · [TG ↗](https://t.me/daggerheart_ru/79569) — В целом, как верно заметили в комментах, похоже и на https://www.reddit.com/r/daggerheart/comments/1puuxud/prototype_of…- **Александр "Ланс" Фиглин** · 28.05 13:32 · [архив](../general/2026-05.md#m79750) · [TG ↗](https://t.me/daggerheart_ru/79750) — https://www.reddit.com/r/daggerheart/comments/1tjmwxa/witch_class_updates_from_birthday_stream/
 - **Александр "Ланс" Фиглин** · 30.05 16:17 · [архив](../general/2026-05.md#m79777) · [TG ↗](https://t.me/daggerheart_ru/79777) — Кит Бейкер приносит нам Клинки во Тьме) https://www.reddit.com/r/daggerheart/s/sOHegqK7lD
 - **Александр "Ланс" Фиглин** · 04.06 12:43 · [архив](../topics/04-хоумрулы-неофициальные-механики.md#m80123) · [TG ↗](https://t.me/daggerheart_ru/19690/80123) — Прикольная механика для всяких игр про школы https://www.reddit.com/r/daggerheart/s/I55BNt3V8d
+- **Александр "Ланс" Фиглин** · 12.06 00:27 · [архив](../general/2026-06.md#m80265) · [TG ↗](https://t.me/daggerheart_ru/80265) — https://www.reddit.com/r/daggerheart/s/atmxJsyFmM
