@@ -16,4 +16,4 @@ _11 сообщений._
 - **Админ** · 06.08 11:10 · [архив](../general/2025-08-w1.md#m37637) · [TG ↗](https://t.me/daggerheart_ru/37637) — как вариант https://freshcutgrass.app/
 - **Админ** · 26.08 12:32 · [архив](../general/2025-08-w4.md#m51699) · [TG ↗](https://t.me/daggerheart_ru/51699) — https://freshcutgrass.app/
 - **Админ** · 26.10 08:59 · [архив](../topics/02-файлы-полезное-и-хоумрулы.md#m61566) · [TG ↗](https://t.me/daggerheart_ru/7351/61566) — Удобный сайт для подбора противников и формирования боевых сцен. Можно как усилить противников, так и ослабить https://…
-- **Админ** · 02.02 15:39 · [архив](../general/2026-02.md#m74084) · [TG ↗](https://t.me/daggerheart_ru/74084) — https://freshcutgrass.app/encounter-manager
+- **Админ** · 02.02 15:39 · [архив](../general/2026-02.md#m74084) · [TG ↗](https://t.me/daggerheart_ru/74084) — https://freshcutgrass.app/encounter-manager- **Аноним** · 13.06 15:08 · [архив](../general/2026-06.md#m80289) · [TG ↗](https://t.me/daggerheart_ru/80289) — а понял ну если английский не смущает, то вот наверно самый удобный https://freshcutgrass.app/encounter-manager
