@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3651 сообщений._
+_3652 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3657,3 +3657,4 @@ _3651 сообщений._
 - **Иван** · 10.06 13:32 · [архив](../general/2026-06.md#m80232) · [TG ↗](https://t.me/daggerheart_ru/80232) — Не указано - значит с учётом мастерства
 - **Александр "Ланс" Фиглин** · 12.06 00:27 · [архив](../general/2026-06.md#m80265) · [TG ↗](https://t.me/daggerheart_ru/80265) — https://www.reddit.com/r/daggerheart/s/atmxJsyFmM
 - **Ahav** · 13.06 15:09 · [архив](../general/2026-06.md#m80291) · [TG ↗](https://t.me/daggerheart_ru/80291) — https://www.reddit.com/r/daggerheart/s/VnFoM1EKij
+- **Ignat Simonenko** · 13.06 19:16 · [архив](../general/2026-06.md#m80355) · [TG ↗](https://t.me/daggerheart_ru/80355) — [фото]
