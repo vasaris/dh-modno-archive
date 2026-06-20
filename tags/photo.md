@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3679 сообщений._
+_3680 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3685,3 +3685,4 @@ _3679 сообщений._
 - **Pan** · 19.06 14:37 · [архив](../general/2026-06.md#m80574) · [TG ↗](https://t.me/daggerheart_ru/80574) — Я добавлю тебе хоумбрю в фею чтобы стереть способность Серафима и добавить тебе хоумбрю в него И монитор каждому
 - **Ahav** · 20.06 09:22 · [архив](../general/2026-06.md#m80594) · [TG ↗](https://t.me/daggerheart_ru/80594) — https://www.reddit.com/r/daggerheart/s/agGX1WgCMH
 - **P T** · 20.06 09:28 · [архив](../general/2026-06.md#m80601) · [TG ↗](https://t.me/daggerheart_ru/80601) — https://ru.scribd.com/document/679082106/VTNL-1
+- **Аноним** · 20.06 14:29 · [архив](../general/2026-06.md#m80615) · [TG ↗](https://t.me/daggerheart_ru/80615) — [фото]
