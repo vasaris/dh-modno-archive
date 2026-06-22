@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3680 сообщений._
+_3682 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3686,3 +3686,5 @@ _3680 сообщений._
 - **Ahav** · 20.06 09:22 · [архив](../general/2026-06.md#m80594) · [TG ↗](https://t.me/daggerheart_ru/80594) — https://www.reddit.com/r/daggerheart/s/agGX1WgCMH
 - **P T** · 20.06 09:28 · [архив](../general/2026-06.md#m80601) · [TG ↗](https://t.me/daggerheart_ru/80601) — https://ru.scribd.com/document/679082106/VTNL-1
 - **Аноним** · 20.06 14:29 · [архив](../general/2026-06.md#m80615) · [TG ↗](https://t.me/daggerheart_ru/80615) — [фото]
+- **Аноним** · 22.06 12:44 · [архив](../general/2026-06.md#m80640) · [TG ↗](https://t.me/daggerheart_ru/80640) — @Lavncelot Допустим 3 противника имеют умение Страж. Допустим срабатывают все 3 разом (союзник как раз между ними стоит…
+- **Иван** · 22.06 13:55 · [архив](../general/2026-06.md#m80665) · [TG ↗](https://t.me/daggerheart_ru/80665) — [фото]
