@@ -1,6 +1,6 @@
 # 🤖 Reddit
 
-_62 сообщений._
+_63 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -68,3 +68,4 @@ _62 сообщений._
 - **Александр "Ланс" Фиглин** · 12.06 00:27 · [архив](../general/2026-06.md#m80265) · [TG ↗](https://t.me/daggerheart_ru/80265) — https://www.reddit.com/r/daggerheart/s/atmxJsyFmM
 - **Ahav** · 13.06 15:09 · [архив](../general/2026-06.md#m80291) · [TG ↗](https://t.me/daggerheart_ru/80291) — https://www.reddit.com/r/daggerheart/s/VnFoM1EKij
 - **Ahav** · 20.06 09:22 · [архив](../general/2026-06.md#m80594) · [TG ↗](https://t.me/daggerheart_ru/80594) — https://www.reddit.com/r/daggerheart/s/agGX1WgCMH
+- **Александр "Ланс" Фиглин** · 23.06 21:20 · [архив](../general/2026-06.md#m80671) · [TG ↗](https://t.me/daggerheart_ru/80671) — Как же он хорош https://www.reddit.com/r/daggerbrew/s/XQ0sLqF9oP
