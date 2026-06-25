@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3685 сообщений._
+_3686 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3691,3 +3691,4 @@ _3685 сообщений._
 - **Александр "Ланс" Фиглин** · 23.06 21:20 · [архив](../general/2026-06.md#m80671) · [TG ↗](https://t.me/daggerheart_ru/80671) — Как же он хорош https://www.reddit.com/r/daggerbrew/s/XQ0sLqF9oP
 - **Вадим Чечёткин** · 23.06 21:45 · [архив](../general/2026-06.md#m80672) · [TG ↗](https://t.me/daggerheart_ru/80672) — [фото]
 - **𝔎𝔢𝔦𝔩𝔩 𝔘𝔫𝔡𝔢𝔞𝔡** · 25.06 08:20 · [архив](../general/2026-06.md#m80673) · [TG ↗](https://t.me/daggerheart_ru/80673) — Просто оставлю это здесь, писать знаете кому 😏
+- **Александр "Ланс" Фиглин** · 25.06 16:04 · [архив](../general/2026-06.md#m80674) · [TG ↗](https://t.me/daggerheart_ru/80674) — https://www.reddit.com/r/daggerheart/s/OwKPOrw0rF
