@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3687 сообщений._
+_3693 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3693,3 +3693,9 @@ _3687 сообщений._
 - **𝔎𝔢𝔦𝔩𝔩 𝔘𝔫𝔡𝔢𝔞𝔡** · 25.06 08:20 · [архив](../general/2026-06.md#m80673) · [TG ↗](https://t.me/daggerheart_ru/80673) — Просто оставлю это здесь, писать знаете кому 😏
 - **Александр "Ланс" Фиглин** · 25.06 16:04 · [архив](../general/2026-06.md#m80674) · [TG ↗](https://t.me/daggerheart_ru/80674) — https://www.reddit.com/r/daggerheart/s/OwKPOrw0rF
 - **Ahav** · 26.06 07:15 · [архив](../general/2026-06.md#m80714) · [TG ↗](https://t.me/daggerheart_ru/80714) — https://www.reddit.com/r/daggerheart/comments/1n3yfz5/diplomacy_environment_game_mechanic_idea/
+- **Аноним** · 26.06 10:35 · [архив](../general/2026-06.md#m80716) · [TG ↗](https://t.me/daggerheart_ru/80716) — [фото]
+- **Аноним** · 26.06 10:35 · [архив](../general/2026-06.md#m80717) · [TG ↗](https://t.me/daggerheart_ru/80717) — [фото]
+- **Александр "Ланс" Фиглин** · 26.06 10:45 · [архив](../general/2026-06.md#m80718) · [TG ↗](https://t.me/daggerheart_ru/80718) — [фото]
+- **Аноним** · 26.06 10:46 · [архив](../general/2026-06.md#m80720) · [TG ↗](https://t.me/daggerheart_ru/80720) — [фото]
+- **Аноним** · 26.06 11:03 · [архив](../general/2026-06.md#m80731) · [TG ↗](https://t.me/daggerheart_ru/80731) — [фото]
+- **Аноним** · 26.06 11:03 · [архив](../general/2026-06.md#m80732) · [TG ↗](https://t.me/daggerheart_ru/80732) — [фото]
