@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3686 сообщений._
+_3687 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3692,3 +3692,4 @@ _3686 сообщений._
 - **Вадим Чечёткин** · 23.06 21:45 · [архив](../general/2026-06.md#m80672) · [TG ↗](https://t.me/daggerheart_ru/80672) — [фото]
 - **𝔎𝔢𝔦𝔩𝔩 𝔘𝔫𝔡𝔢𝔞𝔡** · 25.06 08:20 · [архив](../general/2026-06.md#m80673) · [TG ↗](https://t.me/daggerheart_ru/80673) — Просто оставлю это здесь, писать знаете кому 😏
 - **Александр "Ланс" Фиглин** · 25.06 16:04 · [архив](../general/2026-06.md#m80674) · [TG ↗](https://t.me/daggerheart_ru/80674) — https://www.reddit.com/r/daggerheart/s/OwKPOrw0rF
+- **Ahav** · 26.06 07:15 · [архив](../general/2026-06.md#m80714) · [TG ↗](https://t.me/daggerheart_ru/80714) — https://www.reddit.com/r/daggerheart/comments/1n3yfz5/diplomacy_environment_game_mechanic_idea/
