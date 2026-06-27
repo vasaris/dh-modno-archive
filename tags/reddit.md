@@ -1,6 +1,6 @@
 # 🤖 Reddit
 
-_65 сообщений._
+_66 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -71,3 +71,4 @@ _65 сообщений._
 - **Александр "Ланс" Фиглин** · 23.06 21:20 · [архив](../general/2026-06.md#m80671) · [TG ↗](https://t.me/daggerheart_ru/80671) — Как же он хорош https://www.reddit.com/r/daggerbrew/s/XQ0sLqF9oP
 - **Александр "Ланс" Фиглин** · 25.06 16:04 · [архив](../general/2026-06.md#m80674) · [TG ↗](https://t.me/daggerheart_ru/80674) — https://www.reddit.com/r/daggerheart/s/OwKPOrw0rF
 - **Ahav** · 26.06 07:15 · [архив](../general/2026-06.md#m80714) · [TG ↗](https://t.me/daggerheart_ru/80714) — https://www.reddit.com/r/daggerheart/comments/1n3yfz5/diplomacy_environment_game_mechanic_idea/
+- **Александр "Ланс" Фиглин** · 27.06 10:14 · [архив](../general/2026-06.md#m80742) · [TG ↗](https://t.me/daggerheart_ru/80742) — Прикольные штуки для подготовки, если вы тоже не можете без заметок https://www.reddit.com/r/daggerheart/s/KLeIWYxqq7
