@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3695 сообщений._
+_3696 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3701,3 +3701,4 @@ _3695 сообщений._
 - **Аноним** · 26.06 11:03 · [архив](../general/2026-06.md#m80732) · [TG ↗](https://t.me/daggerheart_ru/80732) — [фото]
 - **Александр "Ланс" Фиглин** · 27.06 10:14 · [архив](../general/2026-06.md#m80742) · [TG ↗](https://t.me/daggerheart_ru/80742) — Прикольные штуки для подготовки, если вы тоже не можете без заметок https://www.reddit.com/r/daggerheart/s/KLeIWYxqq7
 - **Александр "Ланс" Фиглин** · 27.06 23:47 · [архив](../general/2026-06.md#m80757) · [TG ↗](https://t.me/daggerheart_ru/80757) — Мои любимцы опять https://www.reddit.com/r/daggerheart/s/n4t84NvMyN
+- **Александр "Ланс" Фиглин** · 02.07 12:08 · [архив](../general/2026-07.md#m80806) · [TG ↗](https://t.me/daggerheart_ru/80806) — О, Кит Амман пошел в создание противников http://spyandowl.com/store/p/another-stab
