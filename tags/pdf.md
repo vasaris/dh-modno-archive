@@ -1,6 +1,6 @@
 # 📄 PDF-вложения
 
-_142 сообщений._
+_144 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -148,3 +148,5 @@ _142 сообщений._
 - **Ahav** · 28.06 18:47 · [архив](../topics/04-хоумрулы-неофициальные-механики.md#m80766) · [TG ↗](https://t.me/daggerheart_ru/19690/80766) — 
 - **Stanislav Mikhaylov** · 29.06 09:20 · [архив](../topics/02-файлы-полезное-и-хоумрулы.md#m80771) · [TG ↗](https://t.me/daggerheart_ru/7351/80771) — новое официальное приключение
 - **Аноним** · 02.07 13:23 · [архив](../topics/04-хоумрулы-неофициальные-механики.md#m80812) · [TG ↗](https://t.me/daggerheart_ru/19690/80812) — 
+- **Аноним** · 03.07 12:12 · [архив](../general/2026-07.md#m80829) · [TG ↗](https://t.me/daggerheart_ru/80829) — Archibalds_Almanac_of_Adversaries_v1.2.pdf
+- **Аноним** · 03.07 14:11 · [архив](../topics/04-хоумрулы-неофициальные-механики.md#m80830) · [TG ↗](https://t.me/daggerheart_ru/19690/80830) — Archibalds_Almanac_of_Adversaries_v1.2.pdf
