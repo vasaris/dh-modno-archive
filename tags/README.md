@@ -18,7 +18,7 @@ _Сообщения сгруппированы по типу контента._
 | [🤖 Reddit](reddit.md) | 67 |
 | [⚔️ Daggerheart Official](daggerheart-official.md) | 36 |
 | [📌 Закреплённые](pinned.md) | 27 |
-| [🗜️ Архивы (zip/rar/7z)](archive.md) | 20 |
+| [🗜️ Архивы (zip/rar/7z)](archive.md) | 21 |
 | [💰 Patreon / Boosty](patreon.md) | 19 |
 | [🔵 ВКонтакте](vk.md) | 12 |
 | [🌿 FreshCutGrass](freshcutgrass.md) | 11 |
