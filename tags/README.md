@@ -12,7 +12,7 @@ _Сообщения сгруппированы по типу контента._
 | [🎬 Видео](video.md) | 878 |
 | [✈️ Telegram-ссылки](telegram.md) | 551 |
 | [🎨 Изображения (файлом)](image.md) | 423 |
-| [▶️ YouTube](youtube.md) | 226 |
+| [▶️ YouTube](youtube.md) | 227 |
 | [📄 PDF-вложения](pdf.md) | 144 |
 | [📝 Google Docs / Drive](google-docs.md) | 72 |
 | [🤖 Reddit](reddit.md) | 68 |

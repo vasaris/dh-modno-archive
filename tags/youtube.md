@@ -1,6 +1,6 @@
 # ▶️ YouTube
 
-_226 сообщений._
+_227 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -232,3 +232,4 @@ _226 сообщений._
 - **dreameater_ Дрёма** · 22.05 16:47 · [архив](../general/2026-05.md#m79574) · [TG ↗](https://t.me/daggerheart_ru/79574) — https://www.youtube.com/watch?v=B5gz7IOk0TU&t=2181s
 - **Александр "Ланс" Фиглин** · 25.05 11:53 · [архив](../general/2026-05.md#m79603) · [TG ↗](https://t.me/daggerheart_ru/79603) — Официальная тема Даггерхарта  https://youtu.be/uZCsinaEUr8?si=vBSXnHR8xi-ojD8O
 - **Админ** · 25.05 11:56 · [архив](../topics/02-файлы-полезное-и-хоумрулы.md#m79604) · [TG ↗](https://t.me/daggerheart_ru/7351/79604) — Официальная тема Даггерхарта  https://youtu.be/uZCsinaEUr8?si=vBSXnHR8xi-ojD8O- **Александр "Ланс" Фиглин** · 05.06 01:21 · [архив](../general/2026-06.md#m80170) · [TG ↗](https://t.me/daggerheart_ru/80170) — Очень нравится подход к фирмувам https://www.youtube.com/watch?v=XS-Oo-swgCs
+- **Иван** · 07.07 21:38 · [архив](../general/2026-07.md#m80871) · [TG ↗](https://t.me/daggerheart_ru/80871) — https://youtu.be/C4U9pQVxyBg?si=LGxabDWAFbHKLzN2 Нагнали эпика
