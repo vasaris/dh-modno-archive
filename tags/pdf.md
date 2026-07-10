@@ -1,6 +1,6 @@
 # 📄 PDF-вложения
 
-_145 сообщений._
+_147 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -151,3 +151,5 @@ _145 сообщений._
 - **Аноним** · 03.07 12:12 · [архив](../general/2026-07.md#m80829) · [TG ↗](https://t.me/daggerheart_ru/80829) — Archibalds_Almanac_of_Adversaries_v1.2.pdf
 - **Аноним** · 03.07 14:11 · [архив](../topics/04-хоумрулы-неофициальные-механики.md#m80830) · [TG ↗](https://t.me/daggerheart_ru/19690/80830) — Archibalds_Almanac_of_Adversaries_v1.2.pdf
 - **Сергей🪩** · 09.07 15:32 · [архив](../topics/02-файлы-полезное-и-хоумрулы.md#m80914) · [TG ↗](https://t.me/daggerheart_ru/7351/80914) — Перевод нового официального приключения
+- **Аноним** · 10.07 07:25 · [архив](../general/2026-07.md#m80922) · [TG ↗](https://t.me/daggerheart_ru/80922) — https://www.daggerheart.com/wp-content/uploads/2026/07/Summoner_Void_2026_07_09.pdf
+- **Аноним** · 10.07 07:25 · [архив](../topics/02-файлы-полезное-и-хоумрулы.md#m80923) · [TG ↗](https://t.me/daggerheart_ru/7351/80923) — https://www.daggerheart.com/wp-content/uploads/2026/07/Summoner_Void_2026_07_09.pdf

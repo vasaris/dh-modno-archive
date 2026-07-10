@@ -1,6 +1,6 @@
 # ⚔️ Daggerheart Official
 
-_36 сообщений._
+_38 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -41,4 +41,6 @@ _36 сообщений._
 - **Sasha** · 19.05 18:27 · [архив](../topics/05-новости.md#m79463) · [TG ↗](https://t.me/daggerheart_ru/70924/79463) — Vol 27: Алхимия и засады  Дни рождения, бандиты и взрывной краудфандинг. Взгляд за кулисы кастомных карт, разбор Five B…
 - **Вадим** · 20.05 19:19 · [архив](../general/2026-05.md#m79470) · [TG ↗](https://t.me/daggerheart_ru/79470) — https://www.daggerheart.com/umbra/ Там второй сезон Умбры анонсировали, 9 июля
 - **Stanislav Mikhaylov** · 21.05 13:27 · [архив](../general/2026-05.md#m79541) · [TG ↗](https://t.me/daggerheart_ru/79541) — https://cardcreator.daggerheart.com/  они сделали билдер кастомных противников, смотрю их день рожденческий стрим, поти…
-- **Админ** · 21.05 13:28 · [архив](../topics/02-файлы-полезное-и-хоумрулы.md#m79543) · [TG ↗](https://t.me/daggerheart_ru/7351/79543) — https://cardcreator.daggerheart.com/  они сделали билдер кастомных противников, смотрю их день рожденческий стрим, поти…
+- **Админ** · 21.05 13:28 · [архив](../topics/02-файлы-полезное-и-хоумрулы.md#m79543) · [TG ↗](https://t.me/daggerheart_ru/7351/79543) — https://cardcreator.daggerheart.com/  они сделали билдер кастомных противников, смотрю их день рожденческий стрим, поти…- **Александр "Ланс" Фиглин** · 10.07 07:24 · [архив](../general/2026-07.md#m80921) · [TG ↗](https://t.me/daggerheart_ru/80921) — А чо ссылку - войд https://www.daggerheart.com/thevoid/
+- **Аноним** · 10.07 07:25 · [архив](../general/2026-07.md#m80922) · [TG ↗](https://t.me/daggerheart_ru/80922) — https://www.daggerheart.com/wp-content/uploads/2026/07/Summoner_Void_2026_07_09.pdf
+- **Аноним** · 10.07 07:25 · [архив](../topics/02-файлы-полезное-и-хоумрулы.md#m80923) · [TG ↗](https://t.me/daggerheart_ru/7351/80923) — https://www.daggerheart.com/wp-content/uploads/2026/07/Summoner_Void_2026_07_09.pdf
