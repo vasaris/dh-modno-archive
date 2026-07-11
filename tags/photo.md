@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3711 сообщений._
+_3712 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3717,3 +3717,4 @@ _3711 сообщений._
 - **WicH** · 10.07 20:04 · [архив](../general/2026-07.md#m80963) · [TG ↗](https://t.me/daggerheart_ru/80963) — [фото]
 - **Аноним** · 11.07 04:21 · [архив](../general/2026-07.md#m80973) · [TG ↗](https://t.me/daggerheart_ru/80973) — https://www.youtube.com/watch?v=LADs8zXE3MU
 - **Аноним** · 11.07 06:47 · [архив](../general/2026-07.md#m80974) · [TG ↗](https://t.me/daggerheart_ru/80974) — почему бы и нет)))
+- **Roman** · 11.07 14:17 · [архив](../topics/05-новости.md#m80978) · [TG ↗](https://t.me/daggerheart_ru/70924/80978) — 🌟
