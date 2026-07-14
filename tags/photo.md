@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3723 сообщений._
+_3724 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3729,3 +3729,4 @@ _3723 сообщений._
 - **Аноним** · 14.07 07:43 · [архив](../general/2026-07.md#m81029) · [TG ↗](https://t.me/daggerheart_ru/81029) — [фото]
 - **Аноним** · 14.07 07:43 · [архив](../general/2026-07.md#m81030) · [TG ↗](https://t.me/daggerheart_ru/81030) — [фото]
 - **Александр "Ланс" Фиглин** · 14.07 09:55 · [архив](../general/2026-07.md#m81055) · [TG ↗](https://t.me/daggerheart_ru/81055) — https://www.reddit.com/r/daggerheart/comments/1ldpn3s/adjust_reality_clarification/ Ну, тут со мной согласны. Ответа Сп…
+- **Иван** · 14.07 12:23 · [архив](../general/2026-07.md#m81076) · [TG ↗](https://t.me/daggerheart_ru/81076) — + тут удобно карточки выбирать https://dagger-heart.ru/

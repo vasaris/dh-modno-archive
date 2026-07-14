@@ -8,7 +8,7 @@ _Сообщения сгруппированы по типу контента._
 
 | Тег | Сообщений |
 |---|---:|
-| [🖼️ С фото](photo.md) | 3723 |
+| [🖼️ С фото](photo.md) | 3724 |
 | [🎬 Видео](video.md) | 880 |
 | [✈️ Telegram-ссылки](telegram.md) | 551 |
 | [🎨 Изображения (файлом)](image.md) | 423 |
@@ -24,8 +24,8 @@ _Сообщения сгруппированы по типу контента._
 | [🌿 FreshCutGrass](freshcutgrass.md) | 11 |
 | [🌐 Demiplane](demiplane.md) | 10 |
 | [🎵 Аудио](audio.md) | 10 |
+| [🇷🇺 dagger-heart.ru](dagger-heart-ru.md) | 9 |
 | [☁️ Яндекс.Диск](yandex-disk.md) | 9 |
-| [🇷🇺 dagger-heart.ru](dagger-heart-ru.md) | 8 |
 | [👨‍💻 Хабр](habr.md) | 7 |
 | [🎲 Foundry VTT](foundry.md) | 6 |
 | [🐙 GitHub](github.md) | 5 |
