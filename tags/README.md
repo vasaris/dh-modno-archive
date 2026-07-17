@@ -8,7 +8,7 @@ _Сообщения сгруппированы по типу контента._
 
 | Тег | Сообщений |
 |---|---:|
-| [🖼️ С фото](photo.md) | 3725 |
+| [🖼️ С фото](photo.md) | 3726 |
 | [🎬 Видео](video.md) | 880 |
 | [✈️ Telegram-ссылки](telegram.md) | 551 |
 | [🎨 Изображения (файлом)](image.md) | 423 |
@@ -22,15 +22,15 @@ _Сообщения сгруппированы по типу контента._
 | [💰 Patreon / Boosty](patreon.md) | 19 |
 | [🔵 ВКонтакте](vk.md) | 12 |
 | [🌿 FreshCutGrass](freshcutgrass.md) | 11 |
-| [🌐 Demiplane](demiplane.md) | 10 |
 | [🎵 Аудио](audio.md) | 10 |
+| [🌐 Demiplane](demiplane.md) | 10 |
 | [🇷🇺 dagger-heart.ru](dagger-heart-ru.md) | 9 |
 | [☁️ Яндекс.Диск](yandex-disk.md) | 9 |
 | [👨‍💻 Хабр](habr.md) | 7 |
 | [🎲 Foundry VTT](foundry.md) | 6 |
-| [🐙 GitHub](github.md) | 5 |
-| [🎲 DriveThruRPG](drivethru.md) | 5 |
 | [🐉 dnd.su](dnd-su.md) | 5 |
-| [📦 Ozon](ozon.md) | 4 |
+| [🎲 DriveThruRPG](drivethru.md) | 5 |
+| [🐙 GitHub](github.md) | 5 |
 | [🚀 Kickstarter](kickstarter.md) | 4 |
+| [📦 Ozon](ozon.md) | 4 |
 | [🎮 Steam](steam.md) | 3 |
