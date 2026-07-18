@@ -1,6 +1,6 @@
 # 🤖 Reddit
 
-_69 сообщений._
+_70 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -75,3 +75,4 @@ _69 сообщений._
 - **Александр "Ланс" Фиглин** · 27.06 23:47 · [архив](../general/2026-06.md#m80757) · [TG ↗](https://t.me/daggerheart_ru/80757) — Мои любимцы опять https://www.reddit.com/r/daggerheart/s/n4t84NvMyN
 - **Anna** · 06.07 05:50 · [архив](../general/2026-07.md#m80838) · [TG ↗](https://t.me/daggerheart_ru/80838) — даггерхарт номинировали на игру года и лучшие правила: https://www.reddit.com/r/rpg/comments/1umfifh/2026_ennie_award_n…
 - **Александр "Ланс" Фиглин** · 14.07 09:55 · [архив](../general/2026-07.md#m81055) · [TG ↗](https://t.me/daggerheart_ru/81055) — https://www.reddit.com/r/daggerheart/comments/1ldpn3s/adjust_reality_clarification/ Ну, тут со мной согласны. Ответа Сп…
+- **Александр "Ланс" Фиглин** · 18.07 12:42 · [архив](../general/2026-07.md#m81141) · [TG ↗](https://t.me/daggerheart_ru/81141) — https://www.reddit.com/r/daggerheart/s/MtaF8HSc27
