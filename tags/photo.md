@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3728 сообщений._
+_3731 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3734,3 +3734,6 @@ _3728 сообщений._
 - **Аноним** · 17.07 04:27 · [архив](../general/2026-07.md#m81090) · [TG ↗](https://t.me/daggerheart_ru/81090) — Как вы думаете будет ли новая книга аналогом занатара для днд? Докинут ли механа для тактики в бой, например помеху дис…
 - **Аноним** · 18.07 06:51 · [архив](../general/2026-07.md#m81123) · [TG ↗](https://t.me/daggerheart_ru/81123) — были у кого-нибудь проблемы с этим умением друида?
 - **Александр "Ланс" Фиглин** · 18.07 12:42 · [архив](../general/2026-07.md#m81141) · [TG ↗](https://t.me/daggerheart_ru/81141) — https://www.reddit.com/r/daggerheart/s/MtaF8HSc27
+- **Ignat Simonenko** · 19.07 21:46 · [архив](../general/2026-07.md#m81159) · [TG ↗](https://t.me/daggerheart_ru/81159) — https://heartofdaggers.com/products/ameraldi-coast-campaign-frame-pirate-adventure-setting/
+- **Ignat Simonenko** · 19.07 21:51 · [архив](../general/2026-07.md#m81160) · [TG ↗](https://t.me/daggerheart_ru/81160) — https://heartofdaggers.com/products/tidebound-an-adventure-on-the-seas-fantasy-campaign-frame/
+- **Иван** · 19.07 22:29 · [архив](../general/2026-07.md#m81161) · [TG ↗](https://t.me/daggerheart_ru/81161) — + в Арчибальде есть короткая вырезка с возможной механикой
