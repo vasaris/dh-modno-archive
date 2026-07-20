@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3733 сообщений._
+_3739 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3739,3 +3739,9 @@ _3733 сообщений._
 - **Иван** · 19.07 22:29 · [архив](../general/2026-07.md#m81161) · [TG ↗](https://t.me/daggerheart_ru/81161) — + в Арчибальде есть короткая вырезка с возможной механикой
 - **Ahav** · 20.07 10:34 · [архив](../topics/04-хоумрулы-неофициальные-механики.md#m81205) · [TG ↗](https://t.me/daggerheart_ru/19690/81205) — Перевод Кампейн фрейма Hope Springs Eternal: https://docs.google.com/document/d/1uP_Tp5g2Hj1FG7CxaNneQ7L8wPMzIl2l3dY6WW…
 - **Олег** · 20.07 14:03 · [архив](../general/2026-07.md#m81207) · [TG ↗](https://t.me/daggerheart_ru/81207) — Перевод Кампейн фрейма Hope Springs Eternal: https://docs.google.com/document/d/1uP_Tp5g2Hj1FG7CxaNneQ7L8wPMzIl2l3dY6WW…
+- **Вадим Чечёткин** · 20.07 14:44 · [архив](../general/2026-07.md#m81223) · [TG ↗](https://t.me/daggerheart_ru/81223) — и специально обученная форма на сайте https://dagger-heart.ru/order
+- **Вадим Чечёткин** · 20.07 14:48 · [архив](../general/2026-07.md#m81227) · [TG ↗](https://t.me/daggerheart_ru/81227) — [фото]
+- **𝔎𝔢𝔦𝔩𝔩 𝔘𝔫𝔡𝔢𝔞𝔡** · 20.07 14:49 · [архив](../general/2026-07.md#m81228) · [TG ↗](https://t.me/daggerheart_ru/81228) — Понял понял... печатаю... че пинать то...
+- **𝔎𝔢𝔦𝔩𝔩 𝔘𝔫𝔡𝔢𝔞𝔡** · 20.07 14:53 · [архив](../general/2026-07.md#m81229) · [TG ↗](https://t.me/daggerheart_ru/81229) — Теперь я кстати отправляю в вот таких красивых пакетиках
+- **Hager** · 20.07 15:04 · [архив](../general/2026-07.md#m81234) · [TG ↗](https://t.me/daggerheart_ru/81234) — [фото]
+- **𝔎𝔢𝔦𝔩𝔩 𝔘𝔫𝔡𝔢𝔞𝔡** · 20.07 15:05 · [архив](../general/2026-07.md#m81235) · [TG ↗](https://t.me/daggerheart_ru/81235) — "и специально обученная форма на сайте https://dagger-heart.ru/order

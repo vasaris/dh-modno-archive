@@ -8,8 +8,8 @@ _Сообщения сгруппированы по типу контента._
 
 | Тег | Сообщений |
 |---|---:|
-| [🖼️ С фото](photo.md) | 3733 |
-| [🎬 Видео](video.md) | 881 |
+| [🖼️ С фото](photo.md) | 3739 |
+| [🎬 Видео](video.md) | 882 |
 | [✈️ Telegram-ссылки](telegram.md) | 554 |
 | [🎨 Изображения (файлом)](image.md) | 423 |
 | [▶️ YouTube](youtube.md) | 230 |
@@ -22,9 +22,9 @@ _Сообщения сгруппированы по типу контента._
 | [💰 Patreon / Boosty](patreon.md) | 19 |
 | [🔵 ВКонтакте](vk.md) | 12 |
 | [🌿 FreshCutGrass](freshcutgrass.md) | 11 |
+| [🇷🇺 dagger-heart.ru](dagger-heart-ru.md) | 11 |
 | [🎵 Аудио](audio.md) | 10 |
 | [🌐 Demiplane](demiplane.md) | 10 |
-| [🇷🇺 dagger-heart.ru](dagger-heart-ru.md) | 9 |
 | [☁️ Яндекс.Диск](yandex-disk.md) | 9 |
 | [👨‍💻 Хабр](habr.md) | 7 |
 | [🎲 Foundry VTT](foundry.md) | 6 |
