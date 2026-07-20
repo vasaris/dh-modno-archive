@@ -1,6 +1,6 @@
 # ✈️ Telegram-ссылки
 
-_553 сообщений._
+_554 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -559,3 +559,4 @@ _553 сообщений._
 - **Админ** · 22.05 22:03 · [архив](../general/2026-05.md#m79583) · [TG ↗](https://t.me/daggerheart_ru/79583) — https://t.me/daggerheart_foundry/1942- **Ivan Trifonov** · 28.05 16:05 · [архив](../general/2026-05.md#m79761) · [TG ↗](https://t.me/daggerheart_ru/79761) — вот мой анонс, там вайбы прописал как раз https://t.me/dndanube/77
 - **dreameater_ Дрёма** · 18.07 00:37 · [архив](../general/2026-07.md#m81113) · [TG ↗](https://t.me/daggerheart_ru/81113) — Так все "новые", это переделанные старые. Я сейчас читаю эту (https://t.me/daggerheart_ru/19690/80811) книгу, там прямо…
 - **dreameater_ Дрёма** · 19.07 21:44 · [архив](../general/2026-07.md#m81158) · [TG ↗](https://t.me/daggerheart_ru/81158) — Где-то я читал про "корабли", https://t.me/daggerheart_ru/19690/80812 <- тут есть кое-что полезное на странице 51. Но с…
+- **Аноним** · 20.07 06:02 · [архив](../general/2026-07.md#m81202) · [TG ↗](https://t.me/daggerheart_ru/81202) — ей тут не место тут всё теперь https://t.me/daggerheart_foundry/1
