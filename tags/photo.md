@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3732 сообщений._
+_3733 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3738,3 +3738,4 @@ _3732 сообщений._
 - **Ignat Simonenko** · 19.07 21:51 · [архив](../general/2026-07.md#m81160) · [TG ↗](https://t.me/daggerheart_ru/81160) — https://heartofdaggers.com/products/tidebound-an-adventure-on-the-seas-fantasy-campaign-frame/
 - **Иван** · 19.07 22:29 · [архив](../general/2026-07.md#m81161) · [TG ↗](https://t.me/daggerheart_ru/81161) — + в Арчибальде есть короткая вырезка с возможной механикой
 - **Ahav** · 20.07 10:34 · [архив](../topics/04-хоумрулы-неофициальные-механики.md#m81205) · [TG ↗](https://t.me/daggerheart_ru/19690/81205) — Перевод Кампейн фрейма Hope Springs Eternal: https://docs.google.com/document/d/1uP_Tp5g2Hj1FG7CxaNneQ7L8wPMzIl2l3dY6WW…
+- **Олег** · 20.07 14:03 · [архив](../general/2026-07.md#m81207) · [TG ↗](https://t.me/daggerheart_ru/81207) — Перевод Кампейн фрейма Hope Springs Eternal: https://docs.google.com/document/d/1uP_Tp5g2Hj1FG7CxaNneQ7L8wPMzIl2l3dY6WW…
