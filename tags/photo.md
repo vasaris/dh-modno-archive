@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3743 сообщений._
+_3747 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3749,3 +3749,7 @@ _3743 сообщений._
 - **Аноним** · 21.07 17:27 · [архив](../general/2026-07.md#m81254) · [TG ↗](https://t.me/daggerheart_ru/81254) — Дх продолжает удивлять. Суть. Делаю рерол костей молитвы в конце сессии. Смотрю 8 костей !? 0_о Начинаю ковырять игрока…
 - **Иван** · 21.07 17:36 · [архив](../general/2026-07.md#m81255) · [TG ↗](https://t.me/daggerheart_ru/81255) — Нашел https://www.reddit.com/r/daggerheart/comments/1qnue2u/make_camp_downtime_moves_for_wilderness/ Чесслово казалось,…
 - **R Y** · 21.07 20:21 · [архив](../general/2026-07.md#m81260) · [TG ↗](https://t.me/daggerheart_ru/81260) — [фото]
+- **R Y** · 21.07 22:00 · [архив](../general/2026-07.md#m81282) · [TG ↗](https://t.me/daggerheart_ru/81282) — Заголовки спойлеров
+- **R Y** · 21.07 22:00 · [архив](../general/2026-07.md#m81283) · [TG ↗](https://t.me/daggerheart_ru/81283) — [фото]
+- **R Y** · 21.07 22:00 · [архив](../general/2026-07.md#m81284) · [TG ↗](https://t.me/daggerheart_ru/81284) — [фото]
+- **R Y** · 21.07 22:00 · [архив](../general/2026-07.md#m81285) · [TG ↗](https://t.me/daggerheart_ru/81285) — [фото]
