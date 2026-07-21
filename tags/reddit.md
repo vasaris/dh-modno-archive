@@ -1,6 +1,6 @@
 # 🤖 Reddit
 
-_70 сообщений._
+_71 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -76,3 +76,4 @@ _70 сообщений._
 - **Anna** · 06.07 05:50 · [архив](../general/2026-07.md#m80838) · [TG ↗](https://t.me/daggerheart_ru/80838) — даггерхарт номинировали на игру года и лучшие правила: https://www.reddit.com/r/rpg/comments/1umfifh/2026_ennie_award_n…
 - **Александр "Ланс" Фиглин** · 14.07 09:55 · [архив](../general/2026-07.md#m81055) · [TG ↗](https://t.me/daggerheart_ru/81055) — https://www.reddit.com/r/daggerheart/comments/1ldpn3s/adjust_reality_clarification/ Ну, тут со мной согласны. Ответа Сп…
 - **Александр "Ланс" Фиглин** · 18.07 12:42 · [архив](../general/2026-07.md#m81141) · [TG ↗](https://t.me/daggerheart_ru/81141) — https://www.reddit.com/r/daggerheart/s/MtaF8HSc27
+- **Иван** · 21.07 17:36 · [архив](../general/2026-07.md#m81255) · [TG ↗](https://t.me/daggerheart_ru/81255) — Нашел https://www.reddit.com/r/daggerheart/comments/1qnue2u/make_camp_downtime_moves_for_wilderness/ Чесслово казалось,…
