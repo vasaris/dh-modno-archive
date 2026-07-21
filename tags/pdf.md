@@ -1,6 +1,6 @@
 # 📄 PDF-вложения
 
-_148 сообщений._
+_149 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -154,3 +154,4 @@ _148 сообщений._
 - **Аноним** · 10.07 07:25 · [архив](../general/2026-07.md#m80922) · [TG ↗](https://t.me/daggerheart_ru/80922) — https://www.daggerheart.com/wp-content/uploads/2026/07/Summoner_Void_2026_07_09.pdf
 - **Аноним** · 10.07 07:25 · [архив](../topics/02-файлы-полезное-и-хоумрулы.md#m80923) · [TG ↗](https://t.me/daggerheart_ru/7351/80923) — https://www.daggerheart.com/wp-content/uploads/2026/07/Summoner_Void_2026_07_09.pdf
 - **Kermit** · 10.07 09:15 · [архив](../topics/02-файлы-полезное-и-хоумрулы.md#m80953) · [TG ↗](https://t.me/daggerheart_ru/7351/80953) — Плеертест 3 Драккенхейма. На этот раз Площадь Бойни. (С бессмертным стражем)
+- **WicH** · 21.07 21:03 · [архив](../topics/02-файлы-полезное-и-хоумрулы.md#m81270) · [TG ↗](https://t.me/daggerheart_ru/7351/81270) — 
