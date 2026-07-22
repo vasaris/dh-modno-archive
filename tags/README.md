@@ -13,8 +13,8 @@ _Сообщения сгруппированы по типу контента._
 | [✈️ Telegram-ссылки](telegram.md) | 554 |
 | [🎨 Изображения (файлом)](image.md) | 423 |
 | [▶️ YouTube](youtube.md) | 230 |
-| [📄 PDF-вложения](pdf.md) | 149 |
-| [📝 Google Docs / Drive](google-docs.md) | 73 |
+| [📄 PDF-вложения](pdf.md) | 151 |
+| [📝 Google Docs / Drive](google-docs.md) | 74 |
 | [🤖 Reddit](reddit.md) | 71 |
 | [⚔️ Daggerheart Official](daggerheart-official.md) | 39 |
 | [📌 Закреплённые](pinned.md) | 27 |
