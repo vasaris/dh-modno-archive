@@ -8,12 +8,12 @@ _Сообщения сгруппированы по типу контента._
 
 | Тег | Сообщений |
 |---|---:|
-| [🖼️ С фото](photo.md) | 3750 |
+| [🖼️ С фото](photo.md) | 3751 |
 | [🎬 Видео](video.md) | 883 |
 | [✈️ Telegram-ссылки](telegram.md) | 554 |
 | [🎨 Изображения (файлом)](image.md) | 423 |
 | [▶️ YouTube](youtube.md) | 230 |
-| [📄 PDF-вложения](pdf.md) | 154 |
+| [📄 PDF-вложения](pdf.md) | 155 |
 | [📝 Google Docs / Drive](google-docs.md) | 75 |
 | [🤖 Reddit](reddit.md) | 71 |
 | [⚔️ Daggerheart Official](daggerheart-official.md) | 39 |
