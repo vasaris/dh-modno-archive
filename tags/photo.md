@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3751 сообщений._
+_3752 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3757,3 +3757,4 @@ _3751 сообщений._
 - **Иван** · 22.07 09:14 · [архив](../general/2026-07.md#m81322) · [TG ↗](https://t.me/daggerheart_ru/81322) — Лееее, отсылки "It's just harmless little bunny" 🌚
 - **Ahav** · 22.07 14:41 · [архив](../general/2026-07.md#m81338) · [TG ↗](https://t.me/daggerheart_ru/81338) — Хороший Соло, но как будто отсутствие Неумолимого его делает не таким полезным и эффектным
 - **Sasha** · 23.07 07:35 · [архив](../general/2026-07.md#m81353) · [TG ↗](https://t.me/daggerheart_ru/81353) — [фото]
+- **Ignat Simonenko** · 23.07 10:40 · [архив](../topics/04-хоумрулы-неофициальные-механики.md#m81355) · [TG ↗](https://t.me/daggerheart_ru/19690/81355) — альтернативные правила роллов на лут с h&f таблицами https://www.reddit.com/r/daggerheart/comments/1v3z3gm/alternate_lo…
