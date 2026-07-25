@@ -1,6 +1,6 @@
 # ⚔️ Daggerheart Official
 
-_39 сообщений._
+_40 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -45,3 +45,4 @@ _39 сообщений._
 - **Аноним** · 10.07 07:25 · [архив](../general/2026-07.md#m80922) · [TG ↗](https://t.me/daggerheart_ru/80922) — https://www.daggerheart.com/wp-content/uploads/2026/07/Summoner_Void_2026_07_09.pdf
 - **Аноним** · 10.07 07:25 · [архив](../topics/02-файлы-полезное-и-хоумрулы.md#m80923) · [TG ↗](https://t.me/daggerheart_ru/7351/80923) — https://www.daggerheart.com/wp-content/uploads/2026/07/Summoner_Void_2026_07_09.pdf
 - **Sasha** · 15.07 18:27 · [архив](../general/2026-07.md#m81088) · [TG ↗](https://t.me/daggerheart_ru/81088) — Вроде учиться на чужих навыках вождения ролевок - это то же круто А вот вам деконструкция первого эпизода "второго сезо…
+- **Sasha** · 25.07 16:44 · [архив](../topics/05-новости.md#m81482) · [TG ↗](https://t.me/daggerheart_ru/70924/81482) — Vol 31: Hope & Fear Долгожданная книга «Hope & Fear» наконец добирается до читателей — а на горизонте уже маячит Gen Co…
