@@ -1,6 +1,6 @@
 # ▶️ YouTube
 
-_230 сообщений._
+_231 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -236,3 +236,4 @@ _230 сообщений._
 - **Аноним** · 11.07 04:21 · [архив](../general/2026-07.md#m80973) · [TG ↗](https://t.me/daggerheart_ru/80973) — https://www.youtube.com/watch?v=LADs8zXE3MU
 - **Аноним** · 14.07 03:18 · [архив](../general/2026-07.md#m81023) · [TG ↗](https://t.me/daggerheart_ru/81023) — https://youtu.be/C4U9pQVxyBg?si=i7X1GahAuDjjWRdm
 - **Аноним** · 14.07 03:20 · [архив](../general/2026-07.md#m81024) · [TG ↗](https://t.me/daggerheart_ru/81024) — https://m.youtube.com/watch?v=hnIVgdP869o
+- **Sasha** · 31.07 08:40 · [архив](../general/2026-07.md#m81721) · [TG ↗](https://t.me/daggerheart_ru/81721) — Разбор боя с приспешниками и может ли он быть захватывающим https://youtu.be/ICvQLLGCV1k?si=CFqpWwu5W5Okek-H
