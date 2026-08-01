@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3793 сообщений._
+_3794 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3799,3 +3799,4 @@ _3793 сообщений._
 - **Александр "Ланс" Фиглин** · 31.07 18:51 · [архив](../topics/02-файлы-полезное-и-хоумрулы.md#m81776) · [TG ↗](https://t.me/daggerheart_ru/7351/81776) — Фрейм Владычество Вердраконицы. Открыт для комментирования https://docs.google.com/document/d/1rWqUlWG6cU2ngnR2WTf144t9…
 - **Иван** · 31.07 19:05 · [архив](../general/2026-07.md#m81778) · [TG ↗](https://t.me/daggerheart_ru/81778) — https://www.youtube.com/live/fdjjIqC0qrs?si=4e3sC6-QeyD0LeeW Ля, какая же вкуснятина
 - **Anna** · 01.08 10:47 · [архив](../general/2026-08.md#m81799) · [TG ↗](https://t.me/daggerheart_ru/81799) — выглядит ботно
+- **Konstantin Kustov** · 01.08 21:09 · [архив](../general/2026-08.md#m81846) · [TG ↗](https://t.me/daggerheart_ru/81846) — Есть так раз неплохая серия бесплатных приключений-ограблений по Взломщикам Хранилищ (vaultbreakers) https://heartofdag…
