@@ -1,6 +1,6 @@
 # ▶️ YouTube
 
-_233 сообщений._
+_234 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -239,3 +239,4 @@ _233 сообщений._
 - **Sasha** · 31.07 08:40 · [архив](../general/2026-07.md#m81721) · [TG ↗](https://t.me/daggerheart_ru/81721) — Разбор боя с приспешниками и может ли он быть захватывающим https://youtu.be/ICvQLLGCV1k?si=CFqpWwu5W5Okek-H
 - **dreameater_ Дрёма** · 31.07 14:57 · [архив](../general/2026-07.md#m81775) · [TG ↗](https://t.me/daggerheart_ru/81775) — Оказывается появился саундрек к Умбре (уже 3 трека) https://www.youtube.com/watch?v=gWm1T1B49GQ&list=PLAk1DbFClbEE Мне …
 - **Иван** · 31.07 19:05 · [архив](../general/2026-07.md#m81778) · [TG ↗](https://t.me/daggerheart_ru/81778) — https://www.youtube.com/live/fdjjIqC0qrs?si=4e3sC6-QeyD0LeeW Ля, какая же вкуснятина
+- **Аноним** · 03.08 02:24 · [архив](../general/2026-08.md#m81904) · [TG ↗](https://t.me/daggerheart_ru/81904) — https://youtube.com/shorts/SWnRiMrUaEs?si=vsy7mndqKlnfwNdI
