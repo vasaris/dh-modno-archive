@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3804 сообщений._
+_3806 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3810,3 +3810,5 @@ _3804 сообщений._
 - **Иван** · 05.08 10:51 · [архив](../general/2026-08.md#m81993) · [TG ↗](https://t.me/daggerheart_ru/81993) — Знатоки правил, подскажите, пожалуйста, рискнуть всем можно применять лишь раз для персонажа или этот death move без ог…
 - **Bob Hoorn** · 05.08 11:56 · [архив](../general/2026-08.md#m82000) · [TG ↗](https://t.me/daggerheart_ru/82000) — These!
 - **Bob Hoorn** · 05.08 11:57 · [архив](../general/2026-08.md#m82001) · [TG ↗](https://t.me/daggerheart_ru/82001) — На Reddit появился новый пост с отредактированными версиями карточек Gencon 2025 и 2026 для тех, кому это интересно: [h…
+- **Аноним** · 05.08 15:39 · [архив](../general/2026-08.md#m82014) · [TG ↗](https://t.me/daggerheart_ru/82014) — https://www.youtube.com/watch?v=5slF8xbh0Ms
+- **Аноним** · 05.08 15:53 · [архив](../general/2026-08.md#m82025) · [TG ↗](https://t.me/daggerheart_ru/82025) — звук еще этот идиотский https://www.myinstants.com/ru/instant/udar-ot-vzgliada-skaly-22782/?utm_source=copy&utm_medium=…

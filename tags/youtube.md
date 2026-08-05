@@ -1,6 +1,6 @@
 # ▶️ YouTube
 
-_235 сообщений._
+_236 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -241,3 +241,4 @@ _235 сообщений._
 - **Иван** · 31.07 19:05 · [архив](../general/2026-07.md#m81778) · [TG ↗](https://t.me/daggerheart_ru/81778) — https://www.youtube.com/live/fdjjIqC0qrs?si=4e3sC6-QeyD0LeeW Ля, какая же вкуснятина
 - **Аноним** · 03.08 02:24 · [архив](../general/2026-08.md#m81904) · [TG ↗](https://t.me/daggerheart_ru/81904) — https://youtube.com/shorts/SWnRiMrUaEs?si=vsy7mndqKlnfwNdI
 - **Иван** · 05.08 07:03 · [архив](../general/2026-08.md#m81985) · [TG ↗](https://t.me/daggerheart_ru/81985) — https://youtu.be/5slF8xbh0Ms?is=e3rvlI47-aEHqgsb Офигеть, сам Кроуфорд и Перкинс
+- **Аноним** · 05.08 15:39 · [архив](../general/2026-08.md#m82014) · [TG ↗](https://t.me/daggerheart_ru/82014) — https://www.youtube.com/watch?v=5slF8xbh0Ms

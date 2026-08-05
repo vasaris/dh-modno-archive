@@ -8,11 +8,11 @@ _Сообщения сгруппированы по типу контента._
 
 | Тег | Сообщений |
 |---|---:|
-| [🖼️ С фото](photo.md) | 3804 |
+| [🖼️ С фото](photo.md) | 3806 |
 | [🎬 Видео](video.md) | 887 |
 | [✈️ Telegram-ссылки](telegram.md) | 555 |
 | [🎨 Изображения (файлом)](image.md) | 425 |
-| [▶️ YouTube](youtube.md) | 235 |
+| [▶️ YouTube](youtube.md) | 236 |
 | [📄 PDF-вложения](pdf.md) | 166 |
 | [📝 Google Docs / Drive](google-docs.md) | 77 |
 | [🤖 Reddit](reddit.md) | 73 |
