@@ -13,12 +13,12 @@ _Сообщения сгруппированы по типу контента._
 | [✈️ Telegram-ссылки](telegram.md) | 555 |
 | [🎨 Изображения (файлом)](image.md) | 425 |
 | [▶️ YouTube](youtube.md) | 236 |
-| [📄 PDF-вложения](pdf.md) | 166 |
+| [📄 PDF-вложения](pdf.md) | 169 |
 | [📝 Google Docs / Drive](google-docs.md) | 77 |
 | [🤖 Reddit](reddit.md) | 73 |
 | [⚔️ Daggerheart Official](daggerheart-official.md) | 40 |
+| [🗜️ Архивы (zip/rar/7z)](archive.md) | 30 |
 | [📌 Закреплённые](pinned.md) | 27 |
-| [🗜️ Архивы (zip/rar/7z)](archive.md) | 27 |
 | [💰 Patreon / Boosty](patreon.md) | 19 |
 | [🔵 ВКонтакте](vk.md) | 12 |
 | [🌿 FreshCutGrass](freshcutgrass.md) | 11 |
