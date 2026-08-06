@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3806 сообщений._
+_3808 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3812,3 +3812,5 @@ _3806 сообщений._
 - **Bob Hoorn** · 05.08 11:57 · [архив](../general/2026-08.md#m82001) · [TG ↗](https://t.me/daggerheart_ru/82001) — На Reddit появился новый пост с отредактированными версиями карточек Gencon 2025 и 2026 для тех, кому это интересно: [h…
 - **Аноним** · 05.08 15:39 · [архив](../general/2026-08.md#m82014) · [TG ↗](https://t.me/daggerheart_ru/82014) — https://www.youtube.com/watch?v=5slF8xbh0Ms
 - **Аноним** · 05.08 15:53 · [архив](../general/2026-08.md#m82025) · [TG ↗](https://t.me/daggerheart_ru/82025) — звук еще этот идиотский https://www.myinstants.com/ru/instant/udar-ot-vzgliada-skaly-22782/?utm_source=copy&utm_medium=…
+- **Аноним** · 06.08 17:08 · [архив](../general/2026-08.md#m82058) · [TG ↗](https://t.me/daggerheart_ru/82058) — В сувенирном нашел трекер страха
+- **Дмитрий Смирнов** · 06.08 17:35 · [архив](../general/2026-08.md#m82059) · [TG ↗](https://t.me/daggerheart_ru/82059) — Я недавно нашёл дайсы
