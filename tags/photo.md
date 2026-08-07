@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3808 сообщений._
+_3813 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3814,3 +3814,8 @@ _3808 сообщений._
 - **Аноним** · 05.08 15:53 · [архив](../general/2026-08.md#m82025) · [TG ↗](https://t.me/daggerheart_ru/82025) — звук еще этот идиотский https://www.myinstants.com/ru/instant/udar-ot-vzgliada-skaly-22782/?utm_source=copy&utm_medium=…
 - **Аноним** · 06.08 17:08 · [архив](../general/2026-08.md#m82058) · [TG ↗](https://t.me/daggerheart_ru/82058) — В сувенирном нашел трекер страха
 - **Дмитрий Смирнов** · 06.08 17:35 · [архив](../general/2026-08.md#m82059) · [TG ↗](https://t.me/daggerheart_ru/82059) — Я недавно нашёл дайсы
+- **Вадим** · 07.08 13:55 · [архив](../general/2026-08.md#m82069) · [TG ↗](https://t.me/daggerheart_ru/82069) — Такой на стол не поставишь
+- **Вадим** · 07.08 13:59 · [архив](../general/2026-08.md#m82073) · [TG ↗](https://t.me/daggerheart_ru/82073) — Можно. Но из простых решений я придумал прикрепить к ширме 2 канцелярских зажима и поместил трекер внутрь пространства …
+- **Иван** · 07.08 13:59 · [архив](../general/2026-08.md#m82074) · [TG ↗](https://t.me/daggerheart_ru/82074) — Мне в этом плане повезло - мои можно и так, и так юзать
+- **Иван** · 07.08 13:59 · [архив](../general/2026-08.md#m82075) · [TG ↗](https://t.me/daggerheart_ru/82075) — [фото]
+- **Igor Look** · 07.08 14:25 · [архив](../general/2026-08.md#m82082) · [TG ↗](https://t.me/daggerheart_ru/82082) — https://makerworld.com/ru/models/1671714-ravens-crows-fear-tracker-for-daggerheart#profileId-1814341
