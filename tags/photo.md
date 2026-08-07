@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3813 сообщений._
+_3818 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3819,3 +3819,8 @@ _3813 сообщений._
 - **Иван** · 07.08 13:59 · [архив](../general/2026-08.md#m82074) · [TG ↗](https://t.me/daggerheart_ru/82074) — Мне в этом плане повезло - мои можно и так, и так юзать
 - **Иван** · 07.08 13:59 · [архив](../general/2026-08.md#m82075) · [TG ↗](https://t.me/daggerheart_ru/82075) — [фото]
 - **Igor Look** · 07.08 14:25 · [архив](../general/2026-08.md#m82082) · [TG ↗](https://t.me/daggerheart_ru/82082) — https://makerworld.com/ru/models/1671714-ravens-crows-fear-tracker-for-daggerheart#profileId-1814341
+- **P T** · 07.08 16:14 · [архив](../general/2026-08.md#m82084) · [TG ↗](https://t.me/daggerheart_ru/82084) — Я правильно понимаю, что поле вырастает мгновенно, и это можно использовать в бою? А целебные свойства у выращенного по…
+- **P T** · 07.08 16:27 · [архив](../general/2026-08.md#m82099) · [TG ↗](https://t.me/daggerheart_ru/82099) — [фото]
+- **Stanislav Mikhaylov** · 07.08 16:43 · [архив](../general/2026-08.md#m82109) · [TG ↗](https://t.me/daggerheart_ru/82109) — [фото]
+- **Stanislav Mikhaylov** · 07.08 16:51 · [архив](../general/2026-08.md#m82132) · [TG ↗](https://t.me/daggerheart_ru/82132) — [фото]
+- **Stanislav Mikhaylov** · 07.08 16:54 · [архив](../general/2026-08.md#m82138) · [TG ↗](https://t.me/daggerheart_ru/82138) — да не, так же, только зацепки какие-то типо запаха, звука или осязания
