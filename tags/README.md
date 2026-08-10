@@ -17,7 +17,7 @@ _Сообщения сгруппированы по типу контента._
 | [📝 Google Docs / Drive](google-docs.md) | 77 |
 | [🤖 Reddit](reddit.md) | 73 |
 | [⚔️ Daggerheart Official](daggerheart-official.md) | 40 |
-| [🗜️ Архивы (zip/rar/7z)](archive.md) | 30 |
+| [🗜️ Архивы (zip/rar/7z)](archive.md) | 31 |
 | [📌 Закреплённые](pinned.md) | 27 |
 | [💰 Patreon / Boosty](patreon.md) | 19 |
 | [🔵 ВКонтакте](vk.md) | 12 |
