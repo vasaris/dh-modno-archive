@@ -14,7 +14,7 @@ _Сообщения сгруппированы по типу контента._
 | [🎨 Изображения (файлом)](image.md) | 427 |
 | [▶️ YouTube](youtube.md) | 236 |
 | [📄 PDF-вложения](pdf.md) | 171 |
-| [📝 Google Docs / Drive](google-docs.md) | 77 |
+| [📝 Google Docs / Drive](google-docs.md) | 78 |
 | [🤖 Reddit](reddit.md) | 73 |
 | [⚔️ Daggerheart Official](daggerheart-official.md) | 40 |
 | [🗜️ Архивы (zip/rar/7z)](archive.md) | 31 |
