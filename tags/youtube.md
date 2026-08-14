@@ -1,6 +1,6 @@
 # ▶️ YouTube
 
-_237 сообщений._
+_238 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -243,3 +243,4 @@ _237 сообщений._
 - **Иван** · 05.08 07:03 · [архив](../general/2026-08.md#m81985) · [TG ↗](https://t.me/daggerheart_ru/81985) — https://youtu.be/5slF8xbh0Ms?is=e3rvlI47-aEHqgsb Офигеть, сам Кроуфорд и Перкинс
 - **Аноним** · 05.08 15:39 · [архив](../general/2026-08.md#m82014) · [TG ↗](https://t.me/daggerheart_ru/82014) — https://www.youtube.com/watch?v=5slF8xbh0Ms
 - **Аноним** · 13.08 06:50 · [архив](../general/2026-08.md#m82329) · [TG ↗](https://t.me/daggerheart_ru/82329) — во нашел кусочек, но самого смака там нет https://www.youtube.com/shorts/oaXd2GfHPpU?time_continue=30&source_ve_path=Mj…
+- **dreameater_ Дрёма** · 14.08 14:19 · [архив](../general/2026-08.md#m82527) · [TG ↗](https://t.me/daggerheart_ru/82527) — https://www.youtube.com/watch?v=r3fmDebd_yA&t=453s обзор на https://t.me/daggerheart_ru/7351/82304 (Гонки в Умбре)
