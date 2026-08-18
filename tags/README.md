@@ -10,10 +10,10 @@ _Сообщения сгруппированы по типу контента._
 |---|---:|
 | [🖼️ С фото](photo.md) | 3859 |
 | [🎬 Видео](video.md) | 892 |
-| [✈️ Telegram-ссылки](telegram.md) | 556 |
+| [✈️ Telegram-ссылки](telegram.md) | 557 |
 | [🎨 Изображения (файлом)](image.md) | 427 |
 | [▶️ YouTube](youtube.md) | 238 |
-| [📄 PDF-вложения](pdf.md) | 174 |
+| [📄 PDF-вложения](pdf.md) | 175 |
 | [📝 Google Docs / Drive](google-docs.md) | 78 |
 | [🤖 Reddit](reddit.md) | 73 |
 | [⚔️ Daggerheart Official](daggerheart-official.md) | 40 |

@@ -1,6 +1,6 @@
 # 📄 PDF-вложения
 
-_174 сообщений._
+_175 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -180,3 +180,4 @@ _174 сообщений._
 - **Stanislav Mikhaylov** · 12.08 23:32 · [архив](../topics/02-файлы-полезное-и-хоумрулы.md#m82302) · [TG ↗](https://t.me/daggerheart_ru/7351/82302) — 
 - **Stanislav Mikhaylov** · 12.08 23:32 · [архив](../topics/02-файлы-полезное-и-хоумрулы.md#m82303) · [TG ↗](https://t.me/daggerheart_ru/7351/82303) — 
 - **Stanislav Mikhaylov** · 12.08 23:32 · [архив](../topics/02-файлы-полезное-и-хоумрулы.md#m82304) · [TG ↗](https://t.me/daggerheart_ru/7351/82304) — вышло дополнение для умбры про гонки
+- **dreameater_ Дрёма** · 18.08 15:01 · [архив](../general/2026-08.md#m82693) · [TG ↗](https://t.me/daggerheart_ru/82693) — https://t.me/daggerheart_ru/19690/71917 тут вроде как ещё есть Дух Сирены
