@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3860 сообщений._
+_3862 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3866,3 +3866,5 @@ _3860 сообщений._
 - **Аноним** · 17.08 15:08 · [архив](../general/2026-08.md#m82664) · [TG ↗](https://t.me/daggerheart_ru/82664) — да почему?
 - **Аноним** · 18.08 07:15 · [архив](../general/2026-08.md#m82674) · [TG ↗](https://t.me/daggerheart_ru/82674) — Если в круге стоит 3 игрока и их накрывает аое, по всем неудачно. Спишется 1 жетон или 3?
 - **Иван** · 19.08 07:46 · [архив](../general/2026-08.md#m82706) · [TG ↗](https://t.me/daggerheart_ru/82706) — Тайминг 2:00 🤣 https://youtu.be/lJuYJVcCAlg?si=to06lxRnEaWk4kvM
+- **Ahav** · 19.08 16:54 · [архив](../general/2026-08.md#m82721) · [TG ↗](https://t.me/daggerheart_ru/82721) — Там кстати еще https://www.reddit.com/r/daggerheart/s/0ikl0biJBp
+- **Аноним** · 19.08 17:05 · [архив](../general/2026-08.md#m82730) · [TG ↗](https://t.me/daggerheart_ru/82730) — походу у меня тоже

@@ -1,6 +1,6 @@
 # 🤖 Reddit
 
-_73 сообщений._
+_74 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -79,3 +79,4 @@ _73 сообщений._
 - **Иван** · 21.07 17:36 · [архив](../general/2026-07.md#m81255) · [TG ↗](https://t.me/daggerheart_ru/81255) — Нашел https://www.reddit.com/r/daggerheart/comments/1qnue2u/make_camp_downtime_moves_for_wilderness/ Чесслово казалось,…
 - **Ignat Simonenko** · 23.07 10:40 · [архив](../topics/04-хоумрулы-неофициальные-механики.md#m81355) · [TG ↗](https://t.me/daggerheart_ru/19690/81355) — альтернативные правила роллов на лут с h&f таблицами https://www.reddit.com/r/daggerheart/comments/1v3z3gm/alternate_lo…
 - **Bob Hoorn** · 05.08 11:57 · [архив](../general/2026-08.md#m82001) · [TG ↗](https://t.me/daggerheart_ru/82001) — На Reddit появился новый пост с отредактированными версиями карточек Gencon 2025 и 2026 для тех, кому это интересно: [h…
+- **Ahav** · 19.08 16:54 · [архив](../general/2026-08.md#m82721) · [TG ↗](https://t.me/daggerheart_ru/82721) — Там кстати еще https://www.reddit.com/r/daggerheart/s/0ikl0biJBp
