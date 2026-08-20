@@ -11,7 +11,7 @@ _Сообщения сгруппированы по типу контента._
 | [🖼️ С фото](photo.md) | 3862 |
 | [🎬 Видео](video.md) | 892 |
 | [✈️ Telegram-ссылки](telegram.md) | 558 |
-| [🎨 Изображения (файлом)](image.md) | 427 |
+| [🎨 Изображения (файлом)](image.md) | 428 |
 | [▶️ YouTube](youtube.md) | 239 |
 | [📄 PDF-вложения](pdf.md) | 178 |
 | [📝 Google Docs / Drive](google-docs.md) | 78 |
