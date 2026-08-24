@@ -1,6 +1,6 @@
 # ✈️ Telegram-ссылки
 
-_558 сообщений._
+_559 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -564,3 +564,4 @@ _558 сообщений._
 - **dreameater_ Дрёма** · 14.08 14:19 · [архив](../general/2026-08.md#m82527) · [TG ↗](https://t.me/daggerheart_ru/82527) — https://www.youtube.com/watch?v=r3fmDebd_yA&t=453s обзор на https://t.me/daggerheart_ru/7351/82304 (Гонки в Умбре)
 - **dreameater_ Дрёма** · 18.08 15:01 · [архив](../general/2026-08.md#m82693) · [TG ↗](https://t.me/daggerheart_ru/82693) — https://t.me/daggerheart_ru/19690/71917 тут вроде как ещё есть Дух Сирены
 - **dreameater_ Дрёма** · 19.08 11:54 · [архив](../general/2026-08.md#m82711) · [TG ↗](https://t.me/daggerheart_ru/82711) — https://t.me/daggerheart_ru/19690/80811
+- **Сергей** · 24.08 15:48 · [архив](../topics/03-поиск-игроков.md#m82862) · [TG ↗](https://t.me/daggerheart_ru/14289/82862) — ⚡️⚡️⚡️**Приветствую, приключенцы!** ⚡️⚡️⚡️ Позвольте мне актуализировать [предыдущий пост](https://t.me/daggerheart_ru/…
