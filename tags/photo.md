@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3912 сообщений._
+_3914 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3918,3 +3918,5 @@ _3912 сообщений._
 - **R Y** · 26.08 16:23 · [архив](../general/2026-08.md#m82986) · [TG ↗](https://t.me/daggerheart_ru/82986) — [фото]
 - **R Y** · 26.08 16:23 · [архив](../general/2026-08.md#m82987) · [TG ↗](https://t.me/daggerheart_ru/82987) — [фото]
 - **R Y** · 26.08 16:23 · [архив](../general/2026-08.md#m82988) · [TG ↗](https://t.me/daggerheart_ru/82988) — [фото]
+- **Аноним** · 26.08 17:02 · [архив](../general/2026-08.md#m82997) · [TG ↗](https://t.me/daggerheart_ru/82997) — не, списка нет. У меня другое
+- **Ignat** · 26.08 17:05 · [архив](../general/2026-08.md#m82998) · [TG ↗](https://t.me/daggerheart_ru/82998) — https://callmepartario.github.io/og-dhsrd/#conditions https://callmepartario.github.io/og-dhsrd/#adversary-conditions h…
