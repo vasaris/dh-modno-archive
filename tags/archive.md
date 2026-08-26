@@ -1,6 +1,6 @@
 # 🗜️ Архивы (zip/rar/7z)
 
-_31 сообщений._
+_35 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -37,3 +37,7 @@ _31 сообщений._
 - **Ignat** · 06.08 01:22 · [архив](../topics/04-хоумрулы-неофициальные-механики.md#m82055) · [TG ↗](https://t.me/daggerheart_ru/19690/82055) — 
 - **Ignat** · 06.08 01:22 · [архив](../topics/04-хоумрулы-неофициальные-механики.md#m82057) · [TG ↗](https://t.me/daggerheart_ru/19690/82057) — Vault of Ages - cборники хоумбрю магических предметов
 - **Igor Look** · 10.08 09:04 · [архив](../general/2026-08.md#m82252) · [TG ↗](https://t.me/daggerheart_ru/82252) — 
+- **R Y** · 26.08 16:15 · [архив](../general/2026-08.md#m82958) · [TG ↗](https://t.me/daggerheart_ru/82958) — 
+- **R Y** · 26.08 16:15 · [архив](../general/2026-08.md#m82959) · [TG ↗](https://t.me/daggerheart_ru/82959) — 
+- **R Y** · 26.08 16:16 · [архив](../general/2026-08.md#m82960) · [TG ↗](https://t.me/daggerheart_ru/82960) — 
+- **R Y** · 26.08 16:16 · [архив](../general/2026-08.md#m82961) · [TG ↗](https://t.me/daggerheart_ru/82961) — 
