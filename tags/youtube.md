@@ -1,6 +1,6 @@
 # ▶️ YouTube
 
-_239 сообщений._
+_240 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -245,3 +245,4 @@ _239 сообщений._
 - **Аноним** · 13.08 06:50 · [архив](../general/2026-08.md#m82329) · [TG ↗](https://t.me/daggerheart_ru/82329) — во нашел кусочек, но самого смака там нет https://www.youtube.com/shorts/oaXd2GfHPpU?time_continue=30&source_ve_path=Mj…
 - **dreameater_ Дрёма** · 14.08 14:19 · [архив](../general/2026-08.md#m82527) · [TG ↗](https://t.me/daggerheart_ru/82527) — https://www.youtube.com/watch?v=r3fmDebd_yA&t=453s обзор на https://t.me/daggerheart_ru/7351/82304 (Гонки в Умбре)
 - **Иван** · 19.08 07:46 · [архив](../general/2026-08.md#m82706) · [TG ↗](https://t.me/daggerheart_ru/82706) — Тайминг 2:00 🤣 https://youtu.be/lJuYJVcCAlg?si=to06lxRnEaWk4kvM
+- **Иван** · 27.08 12:06 · [архив](../general/2026-08.md#m83175) · [TG ↗](https://t.me/daggerheart_ru/83175) — https://youtu.be/HigdqEz4uCA?is=8BCsbPPO9onBmg77

@@ -1,6 +1,6 @@
 # 🖼️ С фото
 
-_3915 сообщений._
+_3924 сообщений._
 
 [← Все теги](README.md) · [К навигации](../README.md)
 
@@ -3921,3 +3921,12 @@ _3915 сообщений._
 - **Аноним** · 26.08 17:02 · [архив](../general/2026-08.md#m82997) · [TG ↗](https://t.me/daggerheart_ru/82997) — не, списка нет. У меня другое
 - **Ignat** · 26.08 17:05 · [архив](../general/2026-08.md#m82998) · [TG ↗](https://t.me/daggerheart_ru/82998) — https://callmepartario.github.io/og-dhsrd/#conditions https://callmepartario.github.io/og-dhsrd/#adversary-conditions h…
 - **Илья** · 27.08 03:47 · [архив](../general/2026-08.md#m83004) · [TG ↗](https://t.me/daggerheart_ru/83004) — А теперь вопрос второй за сегодня: Как именно это работает
+- **Дмитрий Смирнов** · 27.08 09:59 · [архив](../general/2026-08.md#m83044) · [TG ↗](https://t.me/daggerheart_ru/83044) — [фото]
+- **Иван** · 27.08 10:12 · [архив](../general/2026-08.md#m83054) · [TG ↗](https://t.me/daggerheart_ru/83054) — Брух
+- **Иван** · 27.08 10:19 · [архив](../general/2026-08.md#m83065) · [TG ↗](https://t.me/daggerheart_ru/83065) — http://az.lib.ru/k/kuprin_a_i/text_0220.shtml И на чай немного Куприна
+- **Anna** · 27.08 10:35 · [архив](../general/2026-08.md#m83111) · [TG ↗](https://t.me/daggerheart_ru/83111) — [фото]
+- **Аноним** · 27.08 11:15 · [архив](../general/2026-08.md#m83143) · [TG ↗](https://t.me/daggerheart_ru/83143) — [фото]
+- **Александр Алалыкин** · 27.08 11:36 · [архив](../general/2026-08.md#m83153) · [TG ↗](https://t.me/daggerheart_ru/83153) — Не вижу слова features
+- **Иван** · 27.08 12:06 · [архив](../general/2026-08.md#m83175) · [TG ↗](https://t.me/daggerheart_ru/83175) — https://youtu.be/HigdqEz4uCA?is=8BCsbPPO9onBmg77
+- **Иван** · 27.08 12:59 · [архив](../general/2026-08.md#m83197) · [TG ↗](https://t.me/daggerheart_ru/83197) — В случае ДХ это на самом деле довольно быстро понимается, когда видишь преимущество на броски реакции "силы" от теплой …
+- **𝔎𝔢𝔦𝔩𝔩 𝔘𝔫𝔡𝔢𝔞𝔡** · 27.08 13:26 · [архив](../general/2026-08.md#m83223) · [TG ↗](https://t.me/daggerheart_ru/83223) — Просто помните... Что где-то есть человек, который решил, что это хорошая идея
